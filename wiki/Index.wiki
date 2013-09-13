@@ -1,0 +1,18 @@
+ * ProjectProposal
+   * Project Introduction
+ * Team Skill 1
+   * taks 1
+   * taks 2
+   * taks 3
+   * taks 4
+ * Team Skill 2
+   * taks 1
+   * taks 2
+   * taks 3
+ * Team Skill 3
+   * taks 1
+   * taks 2
+   * taks 3
+ * Team Skill 4
+ * Team Skill 5
+ * Team Skill 6
