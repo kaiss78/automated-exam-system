@@ -1,0 +1,23 @@
+ * *Project name:*
+   Automated Exam System 
+
+ * *Summary:*
+   It is a website that builds to generate models of different exams   with answers.
+ * *Project description:*
+   It is a website that builds to generate models of different exams. This website makes a database of questions depending on class subjects, chapters, questions type (multiple choice and true/false) and level of questions (easy – medium –hard). 
+   Users have ability to produce random questions into tow hardcopies one of them contains questions and the second has answers’ questions. 
+   In addition, this website can avoid redundant questions that repeat frequently.   
+   This website is different than others website that rely on online version exam methodology, but our website create papers exam.             
+     
+ * *Objectives:*
+   This website system may help teachers inside their schools who are busy from lacking of time because they have huge number of students and many different courses and sections. 
+	
+ * *potential customers:* 
+  * Any department that has passion to use technology instated of tradinital way which depend on write questions’ exam every time. 
+  * In Gannon University, we have conducted ESL department to apply our website because it needs this system to test new students twice each semester.  
+
+ * *Team members:*
+  * Ali Almashaykhi
+  * Bufan Wang
+  * Abdullah Alghamdi
+  * Abdullah Bin Jalalah 
