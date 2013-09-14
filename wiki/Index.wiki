@@ -1,7 +1,8 @@
  * ProjectProposal
    * Project [Introduction]
  * Team Skill 1
-   * taks 1
+   <wiki:toc index="1" />
+   * [taks_1]
    * taks 2
    * taks 3
    * taks 4
