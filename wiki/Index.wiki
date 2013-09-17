@@ -1,5 +1,5 @@
  * [ProjectProposal Project Proposal]
-    * [Project name]
+    * [project name]
     * [Overview Overview]
     * [Objectives Objectives]
     * [PotentialCustomers Potential Customers]
