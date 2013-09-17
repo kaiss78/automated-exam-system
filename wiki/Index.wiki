@@ -1,19 +1,15 @@
- * ProjectProposal
-   * Project [Introduction]
- * Team Skill 1
-   <wiki:toc index="1" />
-   * [taks_1]
-   * taks 2
-   * taks 3
-   * taks 4
- * Team Skill 2
-   * taks 1
-   * taks 2
-   * taks 3
- * Team Skill 3
-   * taks 1
-   * taks 2
-   * taks 3
- * Team Skill 4
- * Team Skill 5
- * Team Skill 6
+ * [ProjectProposal Project Proposal]
+    * [Background Background]
+    * [Overview Overview]
+    * [Objectives Objectives]
+    * [PotentialCustomers Potential Customers]
+    * [TeamMembers Team Members]
+
+ * [BUSINESSPROCESS  BUSINESS PROCESS ]
+ * [TeamSkill1 Team Skill 1]
+ * [TeamSkill2 Team Skill 2]
+    * [PencilProject Pencil Project]
+ * [TeamSkill3 Team Skill 3]
+ * [TeamSkill4 Team Skill 4]
+ * [TeamSkill5 Team Skill 5]
+ * [TeamSkill6 Team Skill 6
