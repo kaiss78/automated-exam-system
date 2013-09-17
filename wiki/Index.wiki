@@ -1,8 +1,7 @@
  * [Introduction]
  * [TeamSkill1 Team Skill 1]
  * [TeamSkill2 Team Skill 2]
-    * [PencilProject Pencil Project]
  * [TeamSkill3 Team Skill 3]
  * [TeamSkill4 Team Skill 4]
  * [TeamSkill5 Team Skill 5]
- * [TeamSkill6 Team Skill 6
+ * [TeamSkill6 Team Skill 6]
