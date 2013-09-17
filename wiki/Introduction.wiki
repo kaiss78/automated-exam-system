@@ -1,4 +1,4 @@
-#sidebar SideBar
+#sidebar index
  * *Project name:*
    Automated Exam System 
 
