@@ -1,7 +1,4 @@
- * [ProjectProposal Introduction]
-    
-
- * [BUSINESSPROCESS  BUSINESS PROCESS ]
+ * [Introduction]
  * [TeamSkill1 Team Skill 1]
  * [TeamSkill2 Team Skill 2]
     * [PencilProject Pencil Project]
