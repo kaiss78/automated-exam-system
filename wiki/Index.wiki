@@ -1,9 +1,5 @@
  * [ProjectProposal Project Proposal]
-    *  [Project name]
-    * [Overview Overview]
-    * [Objectives Objectives]
-    * [PotentialCustomers Potential Customers]
-    * [TeamMembers Team Members]
+    
 
  * [BUSINESSPROCESS  BUSINESS PROCESS ]
  * [TeamSkill1 Team Skill 1]
