@@ -16,7 +16,7 @@
 	
  * *potential customers:* 
   * Any department that has a passion to use technology instated of the traditional way of writing exams, which depends on writing exam questions every time.
-#sidebar SideBar 
+ 
   * In Gannon University, we have conducted the ESL department to apply our website because it needs this system to test new students twice each semester.  
 
  * *Team members:*
