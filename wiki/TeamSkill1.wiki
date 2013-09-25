@@ -12,8 +12,7 @@ Add your content here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-http://www.4shared.com/download/SAeAn2WO/Current_system.jpg?tsid=20130925-035929-94f1019d
 
 
 
- http://www.4shared.com/download/RGwAnVW4/Future_system.jpg?tsid=20130925-035712-f66285d4
+[http://dc702.4shared.com/img/SAeAn2WO/1415313b718/Current_system.jpg]
