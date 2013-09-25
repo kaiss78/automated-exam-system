@@ -1,11 +1,11 @@
 #sidebar Index
- * *Project name:*
+ =*Project name:*=
    Automated Exam System 
 
- * *Summary:*
+ =*Summary:*=
    An Automated Exam website that generates models of different exams with answers.
 
- * *Project description:*
+ =Project description:=
    Our website generates models of different exams. This website makes a database of questions depending on class subjects, chapters, question types (multiple choice or true/false) and the difficulty level of questions (easy – medium –hard). 
    Users have the ability to produce random questions on two hardcopies. One of them contains questions and the second has the answers to the questions. 
    In addition, this website can avoid redundant questions that repeat frequently.   
