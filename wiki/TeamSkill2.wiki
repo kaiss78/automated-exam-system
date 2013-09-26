@@ -1,6 +1,6 @@
 #summary Understanding User and Stakeholder Needs.
 #sidebar Index
-= Introduction =
+= Understanding User and Stakeholder Needs =
 
 Add your content here.
 
