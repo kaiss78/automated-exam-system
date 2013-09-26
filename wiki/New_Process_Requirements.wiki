@@ -1,0 +1,28 @@
+#summary One-sentence summary of this page.
+#sidebar Index
+= New Process Requirements =
+
+Based on the proposed or “to be” process flow defined, list in specific discrete fashion a narrative for each proposed business process requirement.  For requirement provide a narrative step description, narrative requirement description and suggested priority level (e.g. high, medium, low).  If there are requirements related to new reporting, for each reporting requirement include field such as report name, definition/purpose, fields required, data source, real time/historical, existing/new, frequency, input, suggested priority level.
+
+The following are categories of requirements which should be defined:
+
+* Business Requirements 
+e.g. “need to provide a 30 day turnaround from application to approval.”
+
+* System Requirements
+e.g. “24 by 7 system availability 6 days per week”
+
+* Reporting Requirements
+e.g. “Report to produce a count of new applications by state for each week by application type”
+
+* Data Requirements
+e.g. “based on fields in the report, need specific data elements from the following data sources “
+
+* Security Requirements
+The need for securing the system to be developed should be stated in section including levels of access that can be granted
+e.g. “headquarters’ staff may have read only access the following specific data measures”
+
+* Personnel Requirements
+The following table should contain a list of everyone who will play a role in the development of the system.
+* Support Requirements
+The following table should contain a list of everyone who will play a role in the ongoing maintenance of the system following implementation.
