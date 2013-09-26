@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+#sidebar Index
+= Project Success Criteria =
+
+Here the program area staff  identify specific criteria for project success. 
+
+Some example criteria are shown below:
+
+“I’d like to have this system in place by October”
+“I’d like to have all of our partners using this system by next year”
