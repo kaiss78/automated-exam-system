@@ -1,4 +1,4 @@
-#summary Defining the System.
+#summary Managing Scope.
 #sidebar Index
 
 = Introduction =
