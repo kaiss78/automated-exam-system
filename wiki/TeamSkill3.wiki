@@ -1,4 +1,4 @@
-#summary Understanding User and Stakeholder Needs.
+#summary Defining the System.
 #sidebar Index
 
 = Introduction =
