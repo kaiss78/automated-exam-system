@@ -1,4 +1,4 @@
-#summary Refining the System Definition.
+#summary Building the Right System.
 #sidebar Index
 = Introduction =
 
