@@ -4,6 +4,8 @@
    * [Business_Objectives_For_Process]
    * [Business_Requirements]
     * [Process_Flows]
+     * [Existing_or_“As_Is”_Process_Flow]
+     * [Proposed_or_“To_Be”_Process_Flow]
     * [New_Process_Requirements]
     * [Business_Impact]
     * [Technology_Impact]
