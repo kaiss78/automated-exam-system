@@ -1,0 +1,5 @@
+#summary One-sentence summary of this page.
+#sidebar Index
+= ISSUES =
+
+Most projects will have major issues or open points at time of submission to management. List the major open issues or points and the plans for addressing them.
