@@ -1,4 +1,4 @@
-#summary Analyzing the Problem.
+#summary Understanding User and Stakeholder Needs.
 #sidebar Index
 = Introduction =
 
