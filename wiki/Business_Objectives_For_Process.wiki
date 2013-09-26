@@ -1,0 +1,5 @@
+#summary One-sentence summary of this page.
+
+= Business Objectives For Process:=
+
+Describe the specific high level objectives for the project as it relates to the business process. As background description of the challenge or “pain” or deficiency is helpful in providing understanding of the reason for the proposed business objectives. 
