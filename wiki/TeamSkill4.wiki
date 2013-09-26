@@ -1,7 +1,7 @@
 #summary Managing Scope.
 #sidebar Index
 
-= Introduction =
+= Managing Scope =
 
 Add your content here.
 
