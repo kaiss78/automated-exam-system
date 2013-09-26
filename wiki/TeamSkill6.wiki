@@ -1,6 +1,6 @@
 #summary Building the Right System.
 #sidebar Index
-= Introduction =
+= Building the Right System =
 
 Add your content here.
 
