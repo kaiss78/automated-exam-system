@@ -1,4 +1,4 @@
-# Analyzing the Problem.
+# Analyzing the problem.
 
 = Introduction =
 
