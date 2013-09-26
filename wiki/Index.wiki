@@ -1,4 +1,4 @@
- * [ProjectProposal] 
+ * ProjectProposal 
    * [Introduction]
  * [TeamSkill1 Team Skill 1]
  * [TeamSkill2 Team Skill 2]
