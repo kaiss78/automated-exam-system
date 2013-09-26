@@ -1,7 +1,7 @@
 #summary Defining the System.
 #sidebar Index
 
-= Introduction =
+= Defining the System =
 
 Add your content here.
 
