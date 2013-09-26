@@ -5,11 +5,11 @@
 This section identifies how the proposed process changes will impact the business.
  * * Metrics to Measure Business Impact*
 
-    * * Measurable Business Metrics to be Used*
+      * * Measurable Business Metrics to be Used*
 This section needs to identify in business terms, and identification of metrics that will be used to measure business impact in terms of meeting the business objectives.
-    * * Responsibility of Metrics Collection & Analysis*
+      * * Responsibility of Metrics Collection & Analysis*
 This section needs to identify the organizations and individuals who are responsible for collecting, analyzing and disseminating the metrics that will be collected over a specified time period to access the business impact this project has had when it was implemented.
-    * * Business / System Metrics Communication Plan*
+      * * Business / System Metrics Communication Plan*
 This section needs to identify the organizations, and associated individuals, in which metrics related to this project (application), will be communicated to.
  * * Business Dependencies*
 This section should include organizational, project or process dependencies. 
