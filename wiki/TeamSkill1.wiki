@@ -1,6 +1,6 @@
 #summary Analyzing the Problem.
 #sidebar Index
-= Introduction =
+= Analyzing the Problem =
 
 Add your content here.
 
