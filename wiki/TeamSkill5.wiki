@@ -1,6 +1,6 @@
 #summary Refining the System Definition.
 #sidebar Index
-= Introduction =
+= Refining the System Definition =
 
 Add your content here.
 
