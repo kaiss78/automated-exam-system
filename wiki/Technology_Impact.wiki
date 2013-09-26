@@ -3,9 +3,9 @@
 = Technology Impact: =
 
 This section needs to identify how supporting technology will be affected by the proposed process change. It should identify specific tools that will be affected.
- * =Technology Dependencies:=
+ * * Technology Dependencies:*
 This section should include organizational, project or process dependencies. 
 e.g. “this project is dependent upon receiving detail data that will provided at the completion of the automation project which is planned for December”
 
- * =Technology Risks:=
+ * * Technology Risks:*
 This section should identify any technical risks. As reference see SDM Risk Assessment document for a listing of the risks including those normally identified and required in connection with completing the OMB 300 form.
