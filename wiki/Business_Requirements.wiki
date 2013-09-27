@@ -4,7 +4,7 @@
 
 This section describes the fundamental requirements or basis upon which the system will be built. It is very important to be specific and clear in this section as the focus of the project justification, and successful project development and implementation will be based on meeting the specific requirements outlined here.
 
-* The system must have -- results :
+* The system must cover all these results :
 
 ==the system must create exam questions and their answers into two separate papers.
 
