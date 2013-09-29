@@ -10,7 +10,11 @@ The following are categories of requirements which should be defined:
 e.g. “need to provide a 30 day turnaround from application to approval.”
 
  * System Requirements
-e.g. “24 by 7 system availability 6 days per week”
+1.24 by 7 system availability
+
+2.Real time storage
+
+3.
 
  * Reporting Requirements
 e.g. “Report to produce a count of new applications by state for each week by application type”
