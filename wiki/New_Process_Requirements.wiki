@@ -12,11 +12,11 @@ The following are categories of requirements which should be defined:
 
  * System Requirements
 
-    1.24 by 7 system availability
+    # 24 by 7 system availability
 
-    2.Real time storage
+    # Real time storage
 
-    3.Created new exam paper should different with the previous papers which already exist.
+    # Created new exam paper should different with the previous papers which already exist.
 
  * Reporting Requirements
     
@@ -28,9 +28,9 @@ The following are categories of requirements which should be defined:
 
  * Security Requirements
 
-    1.Instructors have the access to create a new exam and modify questions bank related their field.
+    # Instructors have the access to create a new exam and modify questions bank related their field.
 
-    2.System administrators have the access to modify the system architecture. 
+    # System administrators have the access to modify the system architecture. 
 
  * Personnel Requirements
 
@@ -38,6 +38,6 @@ The following are categories of requirements which should be defined:
 
  * Support Requirements
 
-    1.System administrators maintain the system functions.
+    # System administrators maintain the system functions.
 
-    2.Content administrators update the questions bank.
+    # Content administrators update the questions bank.
