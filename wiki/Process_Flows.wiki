@@ -1,3 +1,4 @@
+#sidebar Index
 Process Flows of Automated Exam System
 
 = Introduction =
