@@ -10,6 +10,7 @@ https://scontent-a-ord.xx.fbcdn.net/hphotos-ash3/1376650_627819240573540_1555619
 || Add chapters || Instructors shall add chapters for each class at the first time. ||
 || Add questions || Instructors shall add questions for each class and chapter at the first time.They should enter two types of questions ( True/False – multiple choice)With their answers just one time. ||
 || Add information questions ||  ||
+|| Add exam information || Instructors shall add exam information such as(instructor name - exam type - duration - date - class name) ||
 || Generate exam || Instructors shall get two hardcopies and they can print exam’s paper questions and answers’ paper. ||
 
   * *Instructor who already has a bank of questions and second using the system:*
