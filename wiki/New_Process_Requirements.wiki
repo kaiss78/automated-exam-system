@@ -6,11 +6,11 @@ Based on the proposed or “to be” process flow defined, list in specific disc
 
 The following are categories of requirements which should be defined:
 
- * Business Requirements 
+* Business Requirements 
 
     System Administrator should solve system crashes and other issues within 12 hours  to make sure the system works.
 
- * System Requirements
+* System Requirements
 
    * 24 by 7 system availability
 
@@ -18,25 +18,25 @@ The following are categories of requirements which should be defined:
 
    * Created new exam paper should different with the previous papers which already exist.
 
- * Reporting Requirements
+* Reporting Requirements
     
     Generate exam paper reports, including the total number of questions, difficulty, frequency of questions in the history, exam structure. 
 
- * Data Requirements
+* Data Requirements
 
     Question banks with related courses.
 
- * Security Requirements
+* Security Requirements
 
    * Instructors have the access to create a new exam and modify questions bank related their field.
 
    * System administrators have the access to modify the system architecture. 
 
- * Personnel Requirements
+* Personnel Requirements
 
     System administrators create the system functions.
 
- * Support Requirements
+* Support Requirements
 
    * System administrators maintain the system functions.
 
