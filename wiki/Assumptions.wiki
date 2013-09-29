@@ -2,4 +2,6 @@
 #sidebar Index
 = Assumptions =
 
-Describe key assumptions that provide for project success.
+Enough questions in the bank.
+
+The process flows meet the customer requirement. 
