@@ -1,18 +1,28 @@
-#summary One-sentence summary of this page.
-#sidebar Index
+
 = Business Impact =
 
 This section identifies how the proposed process changes will impact the business.
+
  * * Metrics to Measure Business Impact*
 
-      * * Measurable Business Metrics to be Used*
-This section needs to identify in business terms, and identification of metrics that will be used to measure business impact in terms of meeting the business objectives.
+      The time which create a new exam paper required.
+
       * * Responsibility of Metrics Collection & Analysis*
-This section needs to identify the organizations and individuals who are responsible for collecting, analyzing and disseminating the metrics that will be collected over a specified time period to access the business impact this project has had when it was implemented.
+
+      Interviews with the potential customers to determine the questions bank size, questions type, and courses structures.
+
       * * Business / System Metrics Communication Plan*
-This section needs to identify the organizations, and associated individuals, in which metrics related to this project (application), will be communicated to.
- * * Business Dependencies*
-This section should include organizational, project or process dependencies. 
-e.g. “this project is dependent upon the program area being able to allocate a full time functional lead by June”
- * * Business Risks*
-This section should identify any business risks. As reference see SDM Risk Assessment document for a listing of the risks including those normally identified and required in connection with completing the OMB 300 form.
+
+      System administrators write the customer needs into the system.
+
+      * * Business Dependencies*
+
+      Finished system coding in 2 months.
+
+      Finished writing test plans, test cases and track results on 2 months.
+
+      * * Business Risks*
+
+      Unable to finish the task before the deadline.
+
+      Existing functions can not meet customer needs.
