@@ -8,9 +8,7 @@ https://scontent-a-ord.xx.fbcdn.net/hphotos-ash3/1376650_627819240573540_1555619
 || Log In || Instructors should write the link of the website in any browsing and the system will ask them to enter username and password. The system will verify the username and password if it is correct they will enter to the system or it is not correct or they are new users they have to talk to ESL’S director to provide them by username and password before they use the system. ||
 || Add courses || Instructors shall add own classes at the first time. ||
 || Add chapters || Instructors shall add chapters for each class at the first time. ||
-|| Add questions || Instructors shall add questions for each class and chapter at the first time.
-They should enter two types of questions ( True/False – multiple choice)
-With their answers just one time. ||
+|| Add questions || Instructors shall add questions for each class and chapter at the first time.They should enter two types of questions ( True/False – multiple choice)With their answers just one time. ||
 || Add information questions ||  ||
 || Generate exam || Instructors shall get two hardcopies and they can print exam’s paper questions and answers’ paper. ||
 
