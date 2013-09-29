@@ -7,26 +7,30 @@ Based on the proposed or “to be” process flow defined, list in specific disc
 The following are categories of requirements which should be defined:
 
  * Business Requirements 
-e.g. “need to provide a 30 day turnaround from application to approval.”
+System Administrator should solve system crashes and other issues within 12 hours  to make sure the system works.
 
  * System Requirements
 1.24 by 7 system availability
 
 2.Real time storage
 
-3.
+3.Created new exam paper should different with the previous papers which already exist.
 
  * Reporting Requirements
-e.g. “Report to produce a count of new applications by state for each week by application type”
+Generate exam paper reports, including the total number of questions, difficulty, frequency of questions in the history, exam structure. 
 
  * Data Requirements
-e.g. “based on fields in the report, need specific data elements from the following data sources “
+Question banks with related courses.
 
  * Security Requirements
-The need for securing the system to be developed should be stated in section including levels of access that can be granted
-e.g. “headquarters’ staff may have read only access the following specific data measures”
+Instructors have the access to create a new exam and modify questions bank related their field.
+
+System administrators have the access to modify the system architecture. 
 
  * Personnel Requirements
-The following table should contain a list of everyone who will play a role in the development of the system.
+System administrators create the system functions.
+
  * Support Requirements
-The following table should contain a list of everyone who will play a role in the ongoing maintenance of the system following implementation.
+System administrators maintain the system functions.
+
+Content administrators update the questions bank.
