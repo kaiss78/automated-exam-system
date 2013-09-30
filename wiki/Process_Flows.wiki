@@ -6,16 +6,11 @@ Process Flows of Automated Exam System
 Our system can help instructor create an exam easier than used to.
 
 
-= Details =
+= Process Flows: =
 
 
-  * Instructor log on the system
+  * [Existing or "As Is" Process Flow]
 
-  * In the personal file, see if the exam questions exist. 
+  * [Proposed or "To Be" Process Flow] 
     
-   -If yes, then the system jump to the questions bank. The system will pick questions from the questions bank, and create a generate exam paper which contained questions and solution.
-
-   -If the exam questions don’t exist, system will go to the database to create a new one.
-    Instructor need to choose Courses, Chapters, Questions, Types, and Difficulty level. Then the system will search on questions bank based on these requirements.
-
-  * If instructor satisfied with the exam questions, the system will make the final version and get ready to send to the test takers.
+   
