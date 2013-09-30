@@ -9,8 +9,8 @@ Our system can help instructor create an exam easier than used to.
 = Process Flows: =
 
 
-  * [Existing or "As Is" Process Flow]
+  *  [Existing_or_As_Is_Process Flow]
 
-  * [Proposed or "To Be" Process Flow] 
+  *  [Proposed_or_To_Be_Process Flow] 
     
    
