@@ -16,7 +16,7 @@ The following are categories of requirements which should be defined:
 
    * Real time storage
 
-   * Created new exam paper should different with the previous papers which already exist.
+   * Created a new exam paper should be different with the previous papers which already exist.
 
 * Reporting Requirements
     
