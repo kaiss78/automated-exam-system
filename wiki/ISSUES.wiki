@@ -13,6 +13,6 @@
 
  * The customer require different process flows for the system.
 
-the way is interview more potential customer and analysis their requirements. 
+ * The way is interview more potential customer and analysis their requirements. 
 
  * Using rapid iteration algorithm to put the new requirement into the system.
