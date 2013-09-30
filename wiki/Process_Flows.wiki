@@ -16,6 +16,6 @@ Our system can help instructor create an exam easier than used to.
    -If yes, then the system jump to the questions bank. The system will pick questions from the questions bank, and create a generate exam paper which contained questions and solution.
 
    -If the exam questions don’t exist, system will go to the database to create a new one.
-    Instructor need to choose Courses, Chapters, Questions, Types, and Difficulty. Then the system will search on questions bank based on these requirement.
+    Instructor need to choose Courses, Chapters, Questions, Types, and Difficulty level. Then the system will search on questions bank based on these requirements.
 
-  * If instructor satisfied with the exam question, the system will make the final version and get ready to send to the test takers.
+  * If instructor satisfied with the exam questions, the system will make the final version and get ready to send to the test takers.
