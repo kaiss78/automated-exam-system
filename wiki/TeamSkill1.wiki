@@ -2,12 +2,11 @@
 #sidebar Index
 = Analyzing the Problem =
 
-Add your content here.
+On this step we work through five steps to provide our solution which must be taken in order to achieve the goal.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  # Text in *bold* or _italic_
-  # Headings, paragraphs, and lists
-  # Automatic links to other wiki pages
+= The Five steps: =
+  # Gain agreement on problem definition.
+  # Understand the root causes.
+  # Identify the stakeholders and the users.
+  # Define the solution system boundary.
+  # Identify the constraints to be imposed on the solution.
