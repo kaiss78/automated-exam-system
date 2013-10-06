@@ -1,5 +1,5 @@
 #summary Understand the root causes.
-
+#sidebar Index
 = Understand the root causes=
 
 Add your content here.
