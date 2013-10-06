@@ -2,7 +2,7 @@
 #sidebar Index
 = Analyzing the Problem =
 
-On this step we work through five steps to provide our solution which must be taken in order to achieve the goal.
+On this step we work through five steps which must be taken in order to achieve the goal.
 
 = The Five steps: =
   # Gain agreement on problem definition.
