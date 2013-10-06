@@ -6,7 +6,7 @@ On this step we work through five steps which must be taken in order to achieve 
 
 = The Five steps: =
   # [Gain Gain agreement on problem definition.]
-  # Understand the root causes.
-  # Identify the stakeholders and the users.
-  # Define the solution system boundary.
-  # Identify the constraints to be imposed on the solution.
+  # [Understand Understand the root causes.]
+  # [Identify_the_stakeholders Identify the stakeholders and the users.]
+  # [Define Define the solution system boundary.]
+  # [Identify_the_constraints Identify the constraints to be imposed on the solution.]
