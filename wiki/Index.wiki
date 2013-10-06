@@ -12,6 +12,7 @@
    * [Assumptions]
    * [ISSUES]
    * [Project_Success_Criteria]
+* Team skills for effective reruirements management: 
  * [TeamSkill1 Team Skill 1 Analyzing the Problem]
     # [Gain Gain agreement on problem definition.]
     # [Understand Understand the root causes.]
