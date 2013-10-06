@@ -1,7 +1,7 @@
 #summary Define the solution system boundary.
 #sidebar Index
 
-= Define the solution system boundary:=
+= [Define the solution system boundary:]=
 
 Add your content here.
 
