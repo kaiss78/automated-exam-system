@@ -1,4 +1,5 @@
 #summary Identify the stakeholders and the users..
+#sidebar Index
 
 = Identify the stakeholders and the users:=
 
