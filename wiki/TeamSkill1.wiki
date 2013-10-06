@@ -5,7 +5,7 @@
 On this step we work through five steps which must be taken in order to achieve the goal.
 
 = The Five steps: =
-  # Gain agreement on problem definition.
+  # [Gain Gain agreement on problem definition.]
   # Understand the root causes.
   # Identify the stakeholders and the users.
   # Define the solution system boundary.
