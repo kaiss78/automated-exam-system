@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
-
+#summary Gain agreement on problem definitio.
+#sidebar Index
 = Gain agreement on problem definition =
 
 Add your content here.
