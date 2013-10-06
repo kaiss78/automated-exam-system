@@ -13,11 +13,11 @@
    * [ISSUES]
    * [Project_Success_Criteria]
  * [TeamSkill1 Team Skill 1 Analyzing the Problem]
-   * Gain agreement on problem definition.
-   * Understand the root causes.
-   * Identify the stakeholders and the users.
-   * Define the solution system boundary.
-   * Identify the constraints to be imposed on the solution.
+   * [Gain agreement on problem definition.]
+   * [Understand the root causes.]
+   * [Identify the stakeholders and the users.]
+   * [Define the solution system boundary.]
+   * [Identify the constraints to be imposed on the solution.]
  * [TeamSkill2 Team Skill 2 Understanding User and Stakeholder Needs]
  * [TeamSkill3 Team Skill 3 Defining the System]
  * [TeamSkill4 Team Skill 4 Managing Scope]
