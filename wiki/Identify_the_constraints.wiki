@@ -1,4 +1,5 @@
 #summary Identify the constraints to be imposed on the solution.
+#sidebar Index
 
 = Identify the constraints to be imposed on the solution:=
 
