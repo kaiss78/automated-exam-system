@@ -7,3 +7,7 @@ In the current system of generate exam many of ESL's instructor generate their e
 = Problem Statement Format =
 
 || * Element * || * Description * ||
+|| The problem of... ||  ||
+|| Affects... ||  ||
+|| And result in... ||  ||
+|| Benefits of a solution...||  ||
