@@ -4,9 +4,6 @@
 
 In the current system of generate exam many of ESL's instructor generate their exam manually with some help in some courses which have generated questions bank. However, they like to create their own questions, but it take long time for one form of exam. Thus, what about creating another form of exam for the students whose were absent in the exam's day whit excuse. Moreover, some of ESL's instructor use old exams which lead to repeat some of the question.
 
-= Details =
+= Problem Statement Format =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+|| * Element * || * Description * ||
