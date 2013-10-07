@@ -9,5 +9,5 @@ In the current system of generate exam many of ESL's instructor generate their e
 || * Element * || * Description * ||
 || The problem of... || The long time that taken to generate one form of exam. ||
 || Affects... || Instructors, Students, Quality of education ||
-|| And result in... ||  ||
-|| Benefits of a solution...||  ||
+|| And result in... || Wasting time for both instructors and students. Possibility of repetition of the questions. Not cover the entire materiel which need to be examined. ||
+|| Benefits of a solution...|| Save time for both instructors and students. Avoid redundancy in questions. Accurate eveluation ||
