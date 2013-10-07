@@ -3,12 +3,5 @@
 
 = Define the solution system boundary:=
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*System Boundary
+https://scontent-a-lga.xx.fbcdn.net/hphotos-frc3/1375139_631299783558819_1448950873_n.jpg
