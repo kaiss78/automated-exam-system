@@ -3,12 +3,7 @@
 
 = Identify the stakeholders and the users:=
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+* Users and Stakeholders of the New System *
+|| * Users * || * Other Stakeholders * ||
+|| Instructors || ESl department at Gannon University ||
+|| Students || Gannon University ||
