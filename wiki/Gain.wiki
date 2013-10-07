@@ -7,7 +7,7 @@ In the current system of generate exam many of ESL's instructor generate their e
 = Problem Statement Format =
 
 || * Element * || * Description * ||
-|| The problem of... ||  ||
-|| Affects... ||  ||
+|| The problem of... || The long time that taken to generate one form of exam. ||
+|| Affects... || Instructors, Students, Quality of education ||
 || And result in... ||  ||
 || Benefits of a solution...||  ||
