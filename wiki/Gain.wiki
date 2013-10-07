@@ -2,8 +2,7 @@
 #sidebar Index
 = Gain agreement on problem definition: =
 
-Add your content here.
-
+In the current system of generate exam many of ESL's instructor generate their exam manually with some help in some courses which have generated questions bank. However, they like to create their own questions, but it take long time for one form of exam. Thus, what about creating another form of exam for the students whose were absent in the exam's day whit excuse. Moreover, some of ESL's instructor use old exams which lead to repeat some of the question.
 
 = Details =
 
