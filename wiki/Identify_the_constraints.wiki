@@ -8,7 +8,7 @@ Add your content here.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+|| * SOURCE * || * CONSTRAINT * || * RATIONALE * ||
+|| Environment || The system must be visited through browser|| Customers will use the system from different place, which is inconvenient for install any desktop application||
+|| System || The system must have preview function || Must ensure the correctness of the content manually ||
+|| Operations || The exam paper must have a copy of printed version remain on the database of more than one semester || The customers need to review for grading ||
