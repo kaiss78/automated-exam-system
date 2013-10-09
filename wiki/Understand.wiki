@@ -2,12 +2,12 @@
 #sidebar Index
 = Understand the root causes:=
 
-Add your content here.
+Too much manual operations
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
+
+  * typing questioins
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
