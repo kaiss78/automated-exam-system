@@ -13,3 +13,5 @@ Too much manual operations
   * Automatic links to other wiki pages
 
 http://store2.up-00.com/Sep13/6NW93168.jpg
+
+[http://store2.up-00.com/Sep13/6NW93168.jpg]
