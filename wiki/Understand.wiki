@@ -1,5 +1,6 @@
 #summary Understand the root causes.
 #sidebar Index
-Using fishbone diagram, we can identify the critical problems.
+*Understand the root causes*
+    Using fishbone diagram, we can identify the critical problems.
 
 http://www.hostpic.org/images/1310091020580083.jpg
