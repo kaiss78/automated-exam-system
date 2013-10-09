@@ -12,4 +12,4 @@ Too much manual operations
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-<iframe src="https://docs.google.com/file/d/0B4l_YtJunMYOMjVYaWZpU1NId1E/preview" width="640" height="480"></iframe>
+https://www.dropbox.com/s/ofdgbk8e5y86jb5/fishbone.jpg
