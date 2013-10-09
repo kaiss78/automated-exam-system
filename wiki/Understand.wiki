@@ -1,6 +1,6 @@
 #summary Understand the root causes.
 #sidebar Index
 = Understand the root causes =
-    Using fishbone diagram, we can identify the critical problems.
+To best understand the problem, the root causes had to first be investigated. Throughout this process a fishbone diagram was used to get to the bottom of it.
 
 http://www.hostpic.org/images/1310091020580083.jpg
