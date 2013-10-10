@@ -3,7 +3,7 @@
 = Understand the root causes =
 To best understand the problem, the root causes had to first be investigated. Throughout this process a fishbone diagram was used to get to the bottom of it.
 
-http://www.hostpic.org/images/1310091020580083.jpg
+http://i.imgur.com/pgDIl0R.jpg
 
 
 https://scontent-b-iad.xx.fbcdn.net/hphotos-prn2/1378052_632265460128918_2134936320_n.jpg
