@@ -7,7 +7,7 @@ On this step we work through six steps which must be taken in order to achieve t
 = The Six steps: =
   # [The Challenge of Requirements Elicitation.]
   # [The Features of a Product or System.]
-  # [ Interviewing: A Requirements Gathering Technique. ]
+  # [Interviewing.]
   # [Requirements Workshops.]
-  # [ Brainstorming and Idea Reduction.]
-  # [ Storyboarding.]
+  # [Brainstorming and Idea Reduction.]
+  # [Storyboarding.]
