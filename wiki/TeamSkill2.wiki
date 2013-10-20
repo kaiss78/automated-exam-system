@@ -5,9 +5,9 @@
 On this step we work through six steps which must be taken in order to achieve the goal.
 
 = The Six steps: =
-  # [The Challenge of Requirements Elicitation.]
-  # [The Features of a Product or System.]
-  # [ Interviewing.]
-  # [Requirements Workshops.]
-  # [ Brainstorming.]
-  # [ Storyboarding.]
+  * [The Challenge of Requirements Elicitation.]
+  * [The Features of a Product or System.]
+  * [The Interviewing.]
+  * [The Requirements Workshops.]
+  * [The Brainstorming.]
+  * [The Storyboarding.]
