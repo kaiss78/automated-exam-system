@@ -25,3 +25,5 @@ Summary of needs that Collected from Interviews.
     * The diversity of questions.
 
 = Requirements workshop: =
+
+= Brainstorming: =
