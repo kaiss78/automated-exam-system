@@ -9,5 +9,5 @@ On this step we work through six steps which must be taken in order to achieve t
   # [The Features of a Product or System.]
   # [Interviewing.]
   # [Requirements Workshops.]
-  # [Brainstorming and Idea Reduction.]
+  # [Brainstorming.]
   # [Storyboarding.]
