@@ -6,4 +6,11 @@ Summary of needs that Collected from Interviews.
 
 = Interviews: =
   * *Instructor perspective:*
+    * Generate more than one form of the exam.
+    * Generate exam without repetition of questions.
+    * Make different kind of question.
+    * Take short time to make the exam.
+    * Allow to define difficulties of questions.
+    * Easy to use and make format of exam.
+    * Access anywhere and anytime
   * *Student perspective:*
