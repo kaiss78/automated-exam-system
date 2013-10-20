@@ -1,13 +1,13 @@
-#summary Understanding User and Stakeholder Needs.
+#Requirements elicitation.
 #sidebar Index
-= Understanding User and Stakeholder Needs =
+= Analyzing the Problem =
 
+On this step we work through six steps which must be taken in order to achieve the goal.
 
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= The Six steps: =
+  # [The Challenge of Requirements Elicitation.]
+  # [The Features of a Product or System.]
+  # [ Interviewing: A Requirements Gathering Technique. ]
+  # [Requirements Workshops.]
+  # [ Brainstorming and Idea Reduction.]
+  # [ Storyboarding.]
