@@ -11,6 +11,10 @@ Summary of needs that Collected from Interviews.
     * Make different kind of question.
     * Take short time to make the exam.
     * Allow to define difficulties of questions.
+    * Allow to define numbers of questions.
     * Easy to use and make format of exam.
-    * Access anywhere and anytime
+    * Access anywhere and anytime.
+    * Make the solution of the exam in the same time.
+    * Update the bank of questions anytime.
+
   * *Student perspective:*
