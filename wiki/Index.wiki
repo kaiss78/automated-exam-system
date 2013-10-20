@@ -20,7 +20,6 @@
     # [Define Define the solution system boundary.]
     # [Identify_the_constraints Identify_the_constraints to be imposed on the solution.]
  * [TeamSkill2 Team Skill 2 Understanding User and Stakeholder Needs]
-    # [ Brainstorming and Idea Reduction ]
  * [TeamSkill3 Team Skill 3 Defining the System]
  * [TeamSkill4 Team Skill 4 Managing Scope]
  * [TeamSkill5 Team Skill 5 Refining the System Definition]
