@@ -1,13 +1,9 @@
 #summary Understanding User and Stakeholder Needs.
 #sidebar Index
-= Analyzing the Problem =
+= Understanding User and Stakeholder Needs: =
 
-On this step we work through six steps which must be taken in order to achieve the goal.
+Summary of needs that Collected from Interviews.
 
-= The Six steps: =
-  * [The Challenge of Requirements Elicitation.]
-  * [The Features of a Product or System.]
-  * [The Interviewing.]
-  * [The Requirements Workshops.]
-  * [The Brainstorming.]
-  * [The Storyboarding.]
+= Interviews: =
+  * *Instructor perspective:*
+  * *Student perspective:*
