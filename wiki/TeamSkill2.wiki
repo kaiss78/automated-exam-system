@@ -1,7 +1,7 @@
 #summary Understanding User and Stakeholder Needs.
 #sidebar Index
 = Understanding User and Stakeholder Needs =
- * [ Brainstorming and Idea Reduction ]
+
 
 
 
