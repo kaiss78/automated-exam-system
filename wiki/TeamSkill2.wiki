@@ -18,3 +18,8 @@ Summary of needs that Collected from Interviews.
     * Update the bank of questions anytime.
 
   * *Student perspective:*
+    * The possibility of taking the exam in the same exam's day.
+    * Cover the materials of course equally.
+    * A good tool to measure the level.
+    * Determine the quality of education.
+    * The diversity of questions.
