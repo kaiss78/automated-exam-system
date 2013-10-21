@@ -8,8 +8,7 @@ Summary of needs that Collected from Interviews.
 We have interviewed those two persons to get the system requirements about the new system. 
 || *Name* || *Role* || *position* || 
 || Timothy J. Hartigan || || Stakeholder || || Director, ESL Program ||
-|| SARA . MORROW || || Stakeholder || ||Secretary, C.E.T.L.
-Adjunct Lecturer, English as Second Language||
+|| SARA . MORROW || || Stakeholder || ||Adjunct Lecturer,ESL Program||
 
   * *Instructor perspective:*
     * Generate more than one form of the exam.
