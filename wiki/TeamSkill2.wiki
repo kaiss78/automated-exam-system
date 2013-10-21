@@ -27,3 +27,13 @@ Summary of needs that Collected from Interviews.
 = Requirements workshop: =
 
 = Brainstorming: =
+It may involve spontaneous contribution of ideas from all members of the group. 
+
+
+= Idea generation =
+
+|| Create exam paper automatically || Can store paper || Question bank ||
+|| Web operation || Different access for instructors and administrator || take exam online ||
+|| can change format || the exam paper have solutions || can print out ||
+|| database for questions || multiple choice maker || faster than using word ||
+|| 
