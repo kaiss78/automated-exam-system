@@ -6,6 +6,6 @@
 
 
 || * SOURCE * || * CONSTRAINT * || * RATIONALE * ||
-|| Environment || The system must be visited through browser.|| Customers will use the system from different place, which is inconvenient for install any desktop application.||
+|| Environment || The system must be visited through browser.|| ESL's Instructors will use the system from different place, which is inconvenient for install any desktop application.||
 || System || The system must have preview function. || Must ensure the correctness of the content manually. ||
-|| Operations || The exam paper must have a copy of printed version remain on the database of more than one semester. || The customers need to review for grading. ||
+|| Operations || The exam paper must have a copy of printed version remain on the database of more than one semester. || ESL's Instructors need to review for grading. ||
