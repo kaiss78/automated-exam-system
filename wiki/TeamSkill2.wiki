@@ -5,6 +5,7 @@
 Summary of needs that Collected from Interviews.
 
 = Interviews: =
+We have interviewed those two persons to get the system requirements about the new system.  
   * *Instructor perspective:*
     * Generate more than one form of the exam.
     * Generate exam without repetition of questions.
@@ -22,22 +23,22 @@ Summary of needs that Collected from Interviews.
     * Cover the materials of course equally.
     * The diversity of questions.
 
-= Requirements workshop: =
+
 
 = Brainstorming: =
-It may involve spontaneous contribution of ideas from all members of the group. 
+Features form the last interview, 
 
 
-= Idea generation =
+= High features' system =
 || *Features* || *Priorities* ||
-|| Generate exam without repetition of questions || || 
-||Questions bank || ||
-|| Web operation || ||
-|| Different access for instructors and administrator || || 
-|| the exam paper have solutions || ||
-|| multiple choice maker or true/false format || ||
-|| faster than using word or traditional way || ||
-|| The system has ability to work on any OS environment || ||  
+|| Generate exam without repetition of questions || High || 
+||Questions bank || High  ||
+|| Web operation and Friendly user interface ||High ||
+|| Different access for instructors and administrator ||High || 
+|| the exam questions have solutions' copy ||High ||
+|| multiple choice maker or true/false format || High ||
+|| faster than using word or traditional way ||High  ||
+|| The system has ability to work on any OS environment ||High  ||  
 
 = Storyboarding: =
 https://scontent-a-ord.xx.fbcdn.net/hphotos-ash3/1393332_638628062825991_1808143855_n.jpg
