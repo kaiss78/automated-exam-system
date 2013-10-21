@@ -31,7 +31,7 @@ It may involve spontaneous contribution of ideas from all members of the group.
 = Idea generation =
 
 || Generate exam without repetition of questions ||Questions bank ||
-|| Web operation || Different access for instructors and administrator || take exam online ||
+|| Web operation || Different access for instructors and administrator ||
 || the exam paper have solutions || can print out ||
 || multiple choice maker or true/false format || faster than using word or traditional way ||
 
