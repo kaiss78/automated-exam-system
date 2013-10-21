@@ -10,7 +10,7 @@ We have interviewed those two persons to get the system requirements about the n
 || Timothy J. Hartigan || Stakeholder || Director, ESL Program ||
 || SARA . MORROW || Stakeholder ||Adjunct Lecturer,ESL Program||
 
-  * *Instructor perspective:*
+  * *ESL's Instructor perspective:*
     * Generate more than one form of the exam.
     * Generate exam without repetition of questions.
     * Make different kind of question.
@@ -49,4 +49,4 @@ https://scontent-a-ord.xx.fbcdn.net/hphotos-ash3/1393332_638628062825991_1808143
 
 https://scontent-a-ord.xx.fbcdn.net/hphotos-ash3/1004991_638622706159860_1351101808_n.jpg
 
-After that, the instructor will get a formal number of forms of the exam with them solutions.
+After that, the ESL's instructor will get a formal number of forms of the exam with them solutions.
