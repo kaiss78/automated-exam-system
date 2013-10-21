@@ -1,0 +1,24 @@
+#Brainstorming is a creativity technique of generating ideas to solve a problem. 
+
+
+
+
+It may involve spontaneous contribution of ideas from all members of the group. 
+
+
+= Idea generation =
+
+|| Create exam paper automatically || Can store paper || Question bank ||
+|| Web operation || Different access for instructors and administrator || take exam online ||
+|| can change format || the exam paper have solutions || can print out ||
+|| database for questions || multiple choice maker || faster than using word ||
+|| 
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
