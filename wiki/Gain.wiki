@@ -7,7 +7,7 @@ In the current system of generate exam many of ESL's instructor generate their e
 = Problem Statement Format =
 
 || * Element * || * Description * ||
-|| The problem of... || The long time that taken to generate one form of exam of ESL's instructors. ||
+|| The problem of... || The time that taken by ESL's instructors to generate one form of exam. ||
 || Affects... || ESL's Instructors, Students ||
 || And result in... || Wasting time for both ESL's instructors and students. Possibility of repetition of the questions. Not cover the entire materiel which need to be examined. ||
 || Benefits of a solution...|| Save time for both ESL's instructors and students. Avoid redundancy in questions. Accurate eveluation. Make many form in exam. ||
