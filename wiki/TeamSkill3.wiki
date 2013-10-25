@@ -17,6 +17,11 @@
    ===2.1 User/Market Demographics===
               ESL Instructors are the main users for the system.
    ===2.2 User Profiles===
+              ELS instructors: To access and update database of questions
+                
+   ===2.3 User Environment===
+             This system can support any of the windows based Operating System. It has complete web-based solution provides easy user interface.
+   ===2.4 Key User Needs===
                 * *ESL's Instructor perspective:*
                    * Generate more than one form of the exam.
                    * Generate exam without repetition of questions.
@@ -33,9 +38,5 @@
                            * The possibility of taking the exam in the same exam's day.
                            * Cover the materials of course equally.
                            * The diversity of questions.
-                
-   ===2.3 User Environment===
-             This system can support any of the windows based Operating System. It has complete web-based solution provides easy user interface.
-   ===2.4 Key User Needs===
    ===2.5 Alternatives and Competition===
              As of right now, there is no such other product on the market that competes directly with this product.
