@@ -17,6 +17,23 @@
    ===2.1 User/Market Demographics===
               ESL Instructors are the main users for the system.
    ===2.2 User Profiles===
+                * *ESL's Instructor perspective:*
+                   * Generate more than one form of the exam.
+                   * Generate exam without repetition of questions.
+                   * Make different kind of question.
+                   * Take short time to make the exam.
+                   * Allow to define difficulties of questions.
+                   * Allow to define numbers of questions.
+                   * Easy to use and make format of exam.
+                   * Access anywhere and anytime.
+                   * Make the solution of the exam in the same time.
+                   * Update the bank of questions anytime.
+
+                       * *student Benefits:*
+                           * The possibility of taking the exam in the same exam's day.
+                           * Cover the materials of course equally.
+                           * The diversity of questions.
+                
    ===2.3 User Environment===
              This system can support any of the windows based Operating System. It has complete web-based solution provides easy user interface.
    ===2.4 Key User Needs===
