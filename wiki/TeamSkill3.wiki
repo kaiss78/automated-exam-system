@@ -20,3 +20,5 @@
    ===2.3 User Environment===
              This system can support any of the windows based Operating System. It has complete web-based solution provides easy user interface.
    ===2.4 Key User Needs===
+   ===2.5 Alternatives and Competition===
+             As of right now, there is no such other product on the market that competes directly with this product.
