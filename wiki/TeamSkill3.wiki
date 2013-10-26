@@ -40,3 +40,11 @@
                            * The diversity of questions.
    ===2.5 Alternatives and Competition===
              As of right now, there is no such other product on the market that competes directly with this product.
+
+==3. Product Overview==
+  ===3.1 Product Perspective===
+           * Instructors will use the website to generate exam.
+           * System will connect to the database to generate exam.
+           * System will print questions and answers papers.
+
+http://www.hostpic.org/images/1310260756160121.jpg
