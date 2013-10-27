@@ -51,3 +51,15 @@
 http://www.hostpic.org/images/1310260756160121.jpg
 
   ===3.2 System Position Statement===
+|| *For* || Education institute ||
+|| *Who* || ELS instructors ||
+|| *Automated Exam System* || Is a system to generate different models of exams ||
+|| *That* || Allow to get easy and fast way to generate exam ||
+|| *Unlike* || Any other traditional way to create exam like Microsoft Word ||
+|| *Our product* || Generate an exam through a website online ||
+
+   ===3.3 Summary of Capabilities===
+   ===3.4 Assumptions and Dependencies===
+   ===3.5 Cost and Pricing===
+           The cost of the system will be determined later due to awaiting software development and marketing costs as well as the cost of maintaining an online database to store all information
+   
