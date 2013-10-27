@@ -51,7 +51,7 @@
 http://www.hostpic.org/images/1310260756160121.jpg
 
   ===3.2 System Position Statement===
-|| *For* || Education institute ||
+|| *For* || Academic/Education institute ||
 || *Who* || ELS instructors ||
 || *Automated Exam System* || Is a system to generate different models of exams ||
 || *That* || Allow to get easy and fast way to generate exam ||
