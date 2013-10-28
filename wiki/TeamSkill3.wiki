@@ -76,4 +76,10 @@ http://www.hostpic.org/images/1310260756160121.jpg
 
    ===3.5 Cost and Pricing===
            The cost of the system will be determined later due to awaiting software development and marketing costs as well as the cost of maintaining an online database to store all information.
+
+==4. Feature Attributes==
+==5. Automated Exam system Features==
+==6. Exemplary Use Case==
+
+https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Usecase.jpg
    
