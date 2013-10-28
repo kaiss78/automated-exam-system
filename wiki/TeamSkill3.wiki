@@ -149,3 +149,26 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Usecase.jpg
 || *Precondition* || Instructors/ Administrator must have to log in into the system||
 || *Basic Flow* || Select the subject in which you have to view Statistics for questions then the system will view Statistical reports that you want.||
 || *Post-condition* || N/A||
+
+==7.0 Other Product Requirements==
+  ===7.1 Applicable Standards===
+          * Internet access
+          * UL, CMM, ISO for safety and quality standards
+          * Windows for platform compliance standards
+  ===7.2 System Requirements===
+          *  Oracle database must be preinstalled
+          * Web server : SUN JAVA system web server 7.0 with JDBC oracle connectivity
+          * 1GB RAM, 160 GB Hard disk space
+  ===7.3 Licensing, Security, and Installation===
+          * There should be some terms and conditions set forth the rights being licensed to the customer for use of this system. , so if customer does not agree to the terms and conditions, then they cannot use it.
+          * users will have to create a user ID and password, which will be have a limited life.
+          * There should be some terms and conditions set forth the rights being licensed to the customer for use of this system. , so if customer does not agree to the terms and conditions, then they cannot use it.
+==8. Documentation Requirements==
+  ===8.1 User Manual===
+          The user manual provides the instructions to use the system and maintain the system. Each user gets their own documentation by hard copy.
+  ===8.2 Online Help===
+          via Frequently Asked Questions (FAQ)
+  ===8.3 Installation Guides, Configuration, Read Me File===
+          Automated Exam system supposes to be easy for customer to use
+  ===8.4 Labeling and Packaging===
+          All terms and licenses have to be signed before the system launched.
