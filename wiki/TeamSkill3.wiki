@@ -87,14 +87,22 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_.jpg
 ||the exam questions have solutions' copy||Approved||Important||High||Low||Medium||
 ||multiple choice maker or true/false format||Approved||Important||High||High||High||
 ||faster than using  Microsoft Word or traditional way||Approved||Important||High||Medium||Medium||
-||The system has ability to work on any OS environment||Approved||Important||High||High||High||
-||Flexibility to create the format exam||Approved||Important||Medium||Low||Medium||
+||The system has ability to work on any OS environment||Approved||Critical||High||High||High||
+||Flexibility to organize the form of the exam||Approved||Important||Medium||Low||Medium||
 ||Secure Database||Approved||Critical|| High|| High|| High||
 || Allow to define difficulties of questions|| Approved|| Important|| Medium|| Low|| Medium||
 ||provides full  word processing capabilities including font selections, size and other attributes||Approved||Useful|| Medium|| Medium|| High||
 
 ==5. Automated Exam system Features==
+  ===5.1 Critical Feature===
+           * Generate exam without repetition of questions: To generate the random test paper without repetition of same question is very important feature of the system. As a test shouldn't have the same question repeated again
+           * Secure Database: Users can access only to particular database that assigned to them. Also the questions' bank of particular subject has to protect to the unauthorized access
+           * Ability to support any OS environment : The software will support any OS environment Windows, Mac, and Linux
 
+  ===5.2 Important Feature===
+           * Flexibility to organize the form of the exam: privilege to change exam’s paper format such as logo or other specific information
+           * Allow to define difficulties of questions: Users have ability to define difficulties of questions ( Easy- Medium- Hard) 
+           * Exam questions have solutions' copy: when users print the exam, system will be automatically print solutions' copy
 
 ==6. Exemplary Use Case==
 
