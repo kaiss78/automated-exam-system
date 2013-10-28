@@ -167,7 +167,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Usecase.jpg
 || *Basic Flow* || Select the subject in which you have to view Statistics for questions then the system will view Statistical reports that you want.||
 || *Post-condition* || N/A||
 
-==7.0 Other Product Requirements==
+==7. Other Product Requirements==
   ===7.1 Applicable Standards===
           * Internet access
           * UL, CMM, ISO for safety and quality standards
