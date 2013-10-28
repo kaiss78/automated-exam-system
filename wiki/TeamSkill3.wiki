@@ -48,7 +48,7 @@
            * System will connect to the database to generate exam.
            * System will print questions and answers papers.
 
-http://www.hostpic.org/images/1310260756160121.jpg
+https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_.jpg
 
   ===3.2 System Position Statement===
 || *For* || Academic/Education institute ||
