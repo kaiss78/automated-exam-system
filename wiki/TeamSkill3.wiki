@@ -59,7 +59,21 @@ http://www.hostpic.org/images/1310260756160121.jpg
 || *Our product* || Generate an exam through a website online ||
 
    ===3.3 Summary of Capabilities===
+
+|| *customer benefit* || *Supporting features* ||
+|| Ability to define privileges for user || database administrator can define privileges like identification, authorization and authentication ||
+|| Ability to add questions in database || privilege to access & maintain database ||
+|| Ability to define difficulties of questions  || Users can identify difficulty level of questions (easy – medium –hard) ||
+|| Ability to generate many exams  || create numerous exams in different classes ||
+|| Ability to organize exams paper format || privilege to change exam’s paper format such as logo or any specific information ||
+
    ===3.4 Assumptions and Dependencies===
+            The following assumptions and dependencies are related to the Generate Exam System:
+             * ESL institute has a website.
+             * Oracle Database must be preinstalled.
+             * Users have a computer (either desktop or laptop) to access the web interface.
+             * The internet access should be available.
+
    ===3.5 Cost and Pricing===
-           The cost of the system will be determined later due to awaiting software development and marketing costs as well as the cost of maintaining an online database to store all information
+           The cost of the system will be determined later due to awaiting software development and marketing costs as well as the cost of maintaining an online database to store all information.
    
