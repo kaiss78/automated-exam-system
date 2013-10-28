@@ -81,5 +81,71 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_.jpg
 ==5. Automated Exam system Features==
 ==6. Exemplary Use Case==
 
+  ===6.1 Use Cases===
 https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Usecase.jpg
-   
+
+  ===6.2 Use cases Description===
+
+             6.2.1 Add new user use case
+|| *use case name* || Add new user||
+|| *Actors* || System Administrator||
+|| *Brief Description* || To create a new username and password to instructors||
+|| *Precondition* || Administrator must have to log in into the system||
+|| *Basic Flow* || The use case begins with customer information entered by the administrator to register new membership for instructors||
+|| *Post-condition* || After the registration is successful, the system must have all details about the user and users can use the system||
+
+             6.2.2 Edit/ Delete user use case
+|| *use case name* || Edit/ Delete user||
+|| *Actors* || System Administrator||
+|| *Brief Description* || To modify or delete a instructor information||
+|| *Precondition* || Administrator must have to log in into the system||
+|| *Basic Flow* || Administrator will modify or delete instructors' data|| 
+|| *Post-condition* || The system will update instructor's information in database||
+
+             6.2.3 Add new subject use case
+|| *use case name* || Add new subject ||
+|| *Actors* || Instructors and System Administrator|| 
+|| *Brief Description* || To create a new subject in database||
+|| *Precondition* || Instructors/ Administrator must have to log in into the system||
+|| *Basic Flow* || Create a new subject which you have to upload your chapters then database will save it automatically||
+|| *Post-condition* || System will generate a confirmation message about database update||
+
+             6.2.4 Add new chapter use case
+|| *use case name* || Add new chapter||
+|| *Actors* || Instructors and System Administrator||
+|| *Brief Description* || To create a new chapters in database for each subject||
+|| *Precondition* || Instructors/ Administrator must have to log in into the system and add a new subject||
+|| *Basic Flow* || Create a new chapters for each subjects that you already created before then database will save it automatically||
+|| *Post-condition* || System will generate a confirmation message about database update||
+
+             6.2.5 Add new questions use case
+|| *use case name* || Add new question||
+|| *Actors* || Instructors and System Administrator||
+|| *Brief Description* || To add questions in database for each chapter||
+|| *Precondition* || Instructors/ Administrator must have to log in into the system and added a subject and chapter||
+|| *Basic Flow* || Select the subject in which they have to upload their questions then Write questions and submit them. Database will save it automatically||
+|| *Post-condition* || System will generate a confirmation message about database update||
+
+             6.2.6 Add exam information use case
+|| *use case name* || Add information exam||
+|| *Actors* || Instructors and System Administrator||
+|| *Brief Description* || To add exam information such as (instructor name - exam type - duration - date - class name)||
+|| *Precondition* || Instructors/ Administrator must have to log in into the system||
+|| *Basic Flow* || Users write the information for the exam then print the paper||
+|| *Post-condition* || System will generate a confirmation message about database update||
+
+             6.2.7 Print exam/ solution use case
+|| *use case name* || Print exam/ solution||
+|| *Actors* || Instructors and System Administrator||
+|| *Brief Description* ||To get two copies of exam (paper questions and answers’ paper)||
+|| *Precondition* || Instructors/ Administrator must have to log in into the system||
+|| *Basic Flow* ||After generate exam you will get two hardcopies and they can print exam’s paper questions and answers’ paper||
+|| *Post-condition* || N/A||
+
+             6.2.8 View statistics questions use case
+|| *use case name* || View statistics questions||
+|| *Actors* || Instructors and System Administrator||
+|| *Brief Description* || Allow to instructors to view statistics questions||
+|| *Precondition* || Instructors/ Administrator must have to log in into the system||
+|| *Basic Flow* || Select the subject in which you have to view Statistics for questions then the system will view Statistical reports that you want.||
+|| *Post-condition* || N/A||
