@@ -23,25 +23,25 @@
 ||Able to add new features in the future|| Important|| Medium|| Low||
 
 ===Table 2- Baseline Features for Automated Exam System initial release===
-|| *Function* || *Priority* || *Effort* || *Risk* || 
-||Web operation and Friendly user interface||Critical||High||High||
-||short time to generate exam||Important||High||High||
-||The system has ability to work on any OS environment||Critical||High||High||
-||Secure Database||Critical|| High|| High|| 
-||the exam questions have solutions' copy||Important||High||Low||
-||faster than using  Microsoft Word or traditional way||Important||High||Medium||
-||Easy to administrate the system|| Critical|| Medium|| High||
+|| *Function* || *Priority* || *Effort* || *Risk* || *Marketing comments* || 
+||Web operation and Friendly user interface||Critical||High||High|| More attractive||
+||short time to generate exam||Important||High||High|| Very important||
+||The system has ability to work on any OS environment||Critical||High||High|| As flexible as possible||
+||Secure Database||Critical|| High|| High|| Excellent for secured access||
+||the exam questions have solutions' copy||Important||High||Low|| Important||
+||faster than using  Microsoft Word or traditional way||Important||High||Medium|| Attractive||
+||Easy to administrate the system|| Critical|| Medium|| High|| Very important||
 
 ===V1.0 Mandatory Baseline: Everything above must be included or we will delay release===
-|| *Function* || *Priority* || *Effort* || *Risk* || 
-||Generate exam without repetition of questions||Critical||High||High||
-||Questions bank||Important||High||High||
-||Different access for instructors and administrator||Important||High||High||
-||multiple choice maker or true/false format||Important||High||High||
-|| Allow to define difficulties of questions|| Important|| Medium|| Low|| 
-||Flexibility to organize the form of the exam||Important||Medium||Low||
+|| *Function* || *Priority* || *Effort* || *Risk* || *Marketing comments* || 
+||Generate exam without repetition of questions||Critical||High||High|| The most important feature||
+||Questions bank||Important||High||High|| Good option for storage||
+||Different access for instructors and administrator||Important||High||High|| Excellent for secured access||
+||multiple choice maker or true/false format||Important||High||High|| Very important||
+|| Allow to define difficulties of questions|| Important|| Medium|| Low|| Necessary|| 
+||Flexibility to organize the form of the exam||Important||Medium||Low|| More attractive||
 
 ===Table 3- Optional Features for future releases:===
-|| *Function* || *Priority* || *Effort* || *Risk* || 
-||provides full  word processing capabilities including font selections, size and other attributes||Useful|| Medium|| Medium|| 
-||Able to add new features in the future|| Important|| Medium|| Low||
+|| *Function* || *Priority* || *Effort* || *Risk* || *Marketing comments* || 
+||provides full  word processing capabilities including font selections, size and other attributes||Useful|| Medium|| Medium|| Attractive||
+||Able to add new features in the future|| Important|| Medium|| Low|| To be update with new technology||
