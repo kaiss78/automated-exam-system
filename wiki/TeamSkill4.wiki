@@ -3,12 +3,43 @@
 
 = Managing Scope =
 
-Add your content here.
+===Table 1- Prioritized Automated Exam System Features List with Efforts and Risk Estimates===
 
+|| *Function* || *Priority* || *Effort* || *Risk* || 
+||Generate exam without repetition of questions||Critical||High||High||
+||Questions bank||Important||High||High||
+||Web operation and Friendly user interface||Critical||High||High||
+||short time to generate exam||Important||High||High||
+||Different access for instructors and administrator||Important||High||High||
+||the exam questions have solutions' copy||Important||High||Low||
+||multiple choice maker or true/false format||Important||High||High||
+||faster than using  Microsoft Word or traditional way||Important||High||Medium||
+||The system has ability to work on any OS environment||Critical||High||High||
+||Flexibility to organize the form of the exam||Important||Medium||Low||
+||Secure Database||Critical|| High|| High|| 
+|| Allow to define difficulties of questions|| Important|| Medium|| Low|| 
+||provides full  word processing capabilities including font selections, size and other attributes||Useful|| Medium|| Medium|| 
+||Able to add new features in the future|| Important|| Medium|| Low||
 
-= Details =
+===Table 2- Baseline Features for Automated Exam System initial release===
+|| *Function* || *Priority* || *Effort* || *Risk* || 
+||Web operation and Friendly user interface||Critical||High||High||
+||short time to generate exam||Important||High||High||
+||The system has ability to work on any OS environment||Critical||High||High||
+||Secure Database||Critical|| High|| High|| 
+||the exam questions have solutions' copy||Important||High||Low||
+||faster than using  Microsoft Word or traditional way||Important||High||Medium||
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+===V1.0 Mandatory Baseline: Everything above must be included or we will delay release===
+|| *Function* || *Priority* || *Effort* || *Risk* || 
+||Generate exam without repetition of questions||Critical||High||High||
+||Questions bank||Important||High||High||
+||Different access for instructors and administrator||Important||High||High||
+||multiple choice maker or true/false format||Important||High||High||
+|| Allow to define difficulties of questions|| Important|| Medium|| Low|| 
+||Flexibility to organize the form of the exam||Important||Medium||Low||
+
+===Table 3- Optional Features for future releases:===
+|| *Function* || *Priority* || *Effort* || *Risk* || 
+||provides full  word processing capabilities including font selections, size and other attributes||Useful|| Medium|| Medium|| 
+||Able to add new features in the future|| Important|| Medium|| Low||
