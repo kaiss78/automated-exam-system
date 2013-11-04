@@ -30,7 +30,7 @@
 ||Secure Database||Critical|| High|| High|| 
 ||the exam questions have solutions' copy||Important||High||Low||
 ||faster than using  Microsoft Word or traditional way||Important||High||Medium||
-||Easy to administrate the system|| Important|| Medium|| High||
+||Easy to administrate the system|| Critical|| Medium|| High||
 
 ===V1.0 Mandatory Baseline: Everything above must be included or we will delay release===
 || *Function* || *Priority* || *Effort* || *Risk* || 
