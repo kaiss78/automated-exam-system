@@ -8,7 +8,7 @@
 || *Function* || *Priority* || *Effort* || *Risk* || 
 ||Generate exam without repetition of questions||Critical||High||High||
 ||Questions bank||Important||High||High||
-||Easy to administrate the system|| Important|| Medium|| High||
+||Easy to administrate the system|| Critical|| Medium|| High||
 ||Web operation and Friendly user interface||Critical||High||High||
 ||short time to generate exam||Important||High||High||
 ||Different access for instructors and administrator||Important||High||High||
