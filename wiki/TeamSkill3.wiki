@@ -92,6 +92,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_.jpg
 ||Secure Database||Approved||Critical|| High|| High|| High||
 || Allow to define difficulties of questions|| Approved|| Important|| Medium|| Low|| Medium||
 ||provides full  word processing capabilities including font selections, size and other attributes||Approved||Useful|| Medium|| Medium|| High||
+||Able to add new features in the future||Approved|| Important|| Medium|| Low|| Low||
 
 ==5. Automated Exam system Features==
   ===5.1 Critical Feature===
