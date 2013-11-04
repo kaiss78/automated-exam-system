@@ -197,3 +197,4 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase2.jpg
           Automated Exam system supposes to be easy for customer to use
   ===8.4 Labeling and Packaging===
           All terms and licenses have to be signed before the system launched.
+==9. Glossary==
