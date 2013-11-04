@@ -8,6 +8,7 @@
 || *Function* || *Priority* || *Effort* || *Risk* || 
 ||Generate exam without repetition of questions||Critical||High||High||
 ||Questions bank||Important||High||High||
+||Easy to administrate the system|| Important|| Medium|| High||
 ||Web operation and Friendly user interface||Critical||High||High||
 ||short time to generate exam||Important||High||High||
 ||Different access for instructors and administrator||Important||High||High||
@@ -29,6 +30,7 @@
 ||Secure Database||Critical|| High|| High|| 
 ||the exam questions have solutions' copy||Important||High||Low||
 ||faster than using  Microsoft Word or traditional way||Important||High||Medium||
+||Easy to administrate the system|| Important|| Medium|| High||
 
 ===V1.0 Mandatory Baseline: Everything above must be included or we will delay release===
 || *Function* || *Priority* || *Effort* || *Risk* || 
