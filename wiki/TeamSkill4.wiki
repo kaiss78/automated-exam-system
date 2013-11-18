@@ -14,10 +14,8 @@
 ||Different access for instructors and administrator||Important||High||High||
 ||the exam questions have solutions' copy||Important||High||Low||
 ||multiple choice maker or true/false format||Important||High||High||
-||faster than using  Microsoft Word or traditional way||Important||High||Medium||
 ||The system has ability to work on any OS environment||Critical||High||High||
 ||Flexibility to organize the form of the exam||Important||Medium||Low||
-||Secure Database||Critical|| High|| High|| 
 || Allow to define difficulties of questions|| Important|| Medium|| Low|| 
 ||provides full  word processing capabilities including font selections, size and other attributes||Useful|| Medium|| Medium|| 
 ||Able to add new features in the future|| Important|| Medium|| Low||
@@ -27,9 +25,7 @@
 ||Web operation and Friendly user interface||Critical||High||High|| More attractive||
 ||short time to generate exam||Important||High||High|| Very important||
 ||The system has ability to work on any OS environment||Critical||High||High|| As flexible as possible||
-||Secure Database||Critical|| High|| High|| Excellent for secured access||
 ||the exam questions have solutions' copy||Important||High||Low|| Important||
-||faster than using  Microsoft Word or traditional way||Important||High||Medium|| Attractive||
 ||Easy to administrate the system|| Critical|| Medium|| High|| Very important||
 
 ===V1.0 Mandatory Baseline: Everything above must be included or we will delay release===
