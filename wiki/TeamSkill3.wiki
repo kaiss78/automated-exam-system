@@ -110,7 +110,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase-newest.jpg
   ===6.2 Use cases Description===
 
              6.2.1 Create new user use case
-|| *use case name* || Add new user||
+|| *use case name* || Create new user||
 || *Actors* || System Administrator||
 || *Brief Description* || To create a new username and password to instructors||
 || *Precondition* || Administrator must have to log in into the system||
@@ -126,7 +126,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase-newest.jpg
 || *Post-condition* || The system will update instructor's information in database||
 
              6.2.3 Maintain new subject use case
-|| *use case name* || Add new subject ||
+|| *use case name* || Maintain new subject ||
 || *Actors* || Instructors and System Administrator|| 
 || *Brief Description* || To create a new subject in database||
 || *Precondition* || Instructors/ Administrator must have to log in into the system||
@@ -134,7 +134,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase-newest.jpg
 || *Post-condition* || System will generate a confirmation message about database update||
 
              6.2.4 Maintain new chapter use case
-|| *use case name* || Add new chapter||
+|| *use case name* || Maintain new chapter||
 || *Actors* || Instructors and System Administrator||
 || *Brief Description* || To create a new chapters in database for each subject||
 || *Precondition* || Instructors/ Administrator must have to log in into the system and add a new subject||
@@ -142,15 +142,15 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase-newest.jpg
 || *Post-condition* || System will generate a confirmation message about database update||
 
              6.2.5 Maintain new questions use case
-|| *use case name* || Add new question||
+|| *use case name* || Maintain new question||
 || *Actors* || Instructors and System Administrator||
 || *Brief Description* || To add questions in database for each chapter||
 || *Precondition* || Instructors/ Administrator must have to log in into the system and added a subject and chapter||
 || *Basic Flow* || Select the subject in which they have to upload their questions then Write questions and submit them. Database will save it automatically||
 || *Post-condition* || System will generate a confirmation message about database update||
 
-             6.2.6 Generate exam information use case
-|| *use case name* || Add information exam||
+             6.2.6 Generate exam use case
+|| *use case name* || Generate exam||
 || *Actors* || Instructors and System Administrator||
 || *Brief Description* || To add exam information such as (instructor name - exam type - duration - date - class name)||
 || *Precondition* || Instructors/ Administrator must have to log in into the system||
