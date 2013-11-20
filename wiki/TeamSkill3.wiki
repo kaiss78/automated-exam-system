@@ -106,11 +106,10 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_.jpg
 
 ==6. Exemplary Use Case==
   ===6.1 Use Cases===
-https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase2.jpg
-
+https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase-newest.jpg
   ===6.2 Use cases Description===
 
-             6.2.1 Add new user use case
+             6.2.1 Create new user use case
 || *use case name* || Add new user||
 || *Actors* || System Administrator||
 || *Brief Description* || To create a new username and password to instructors||
@@ -126,7 +125,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase2.jpg
 || *Basic Flow* || Administrator will modify or delete instructors' data|| 
 || *Post-condition* || The system will update instructor's information in database||
 
-             6.2.3 Add new subject use case
+             6.2.3 Maintain new subject use case
 || *use case name* || Add new subject ||
 || *Actors* || Instructors and System Administrator|| 
 || *Brief Description* || To create a new subject in database||
@@ -134,7 +133,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase2.jpg
 || *Basic Flow* || Create a new subject which you have to upload your chapters then database will save it automatically||
 || *Post-condition* || System will generate a confirmation message about database update||
 
-             6.2.4 Add new chapter use case
+             6.2.4 Maintain new chapter use case
 || *use case name* || Add new chapter||
 || *Actors* || Instructors and System Administrator||
 || *Brief Description* || To create a new chapters in database for each subject||
@@ -142,7 +141,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase2.jpg
 || *Basic Flow* || Create a new chapters for each subjects that you already created before then database will save it automatically||
 || *Post-condition* || System will generate a confirmation message about database update||
 
-             6.2.5 Add new questions use case
+             6.2.5 Maintain new questions use case
 || *use case name* || Add new question||
 || *Actors* || Instructors and System Administrator||
 || *Brief Description* || To add questions in database for each chapter||
@@ -150,7 +149,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase2.jpg
 || *Basic Flow* || Select the subject in which they have to upload their questions then Write questions and submit them. Database will save it automatically||
 || *Post-condition* || System will generate a confirmation message about database update||
 
-             6.2.6 Add exam information use case
+             6.2.6 Generate exam information use case
 || *use case name* || Add information exam||
 || *Actors* || Instructors and System Administrator||
 || *Brief Description* || To add exam information such as (instructor name - exam type - duration - date - class name)||
