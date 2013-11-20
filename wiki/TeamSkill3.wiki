@@ -80,9 +80,9 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_.jpg
 ==4. Feature Attributes==
 || *Function* || *Status* || *Priority* || *Effort* || *Risk* || * Stability* ||
 ||Generate exam without repetition of questions||Approved||Critical||High||High||High||
-||Questions bank||Approved||Important||High||High||High||
+||Maintain questions bank||Approved||Important||High||High||High||
 ||Easy to administrate the system||Approved|| Critical||Medium|| High|| Medium||
-||Web operation and Friendly user interface||Approved||Critical||High||High||High||
+||Statistics for questions||Approved||Critical||High||High||High||
 ||short time to generate exam||Approved||Important||High||High||Medium||
 ||Different access for instructors and administrator||Approved||Important||High||High||High||
 ||the exam questions have solutions' copy||Approved||Important||High||Low||Medium||
