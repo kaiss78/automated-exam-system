@@ -35,10 +35,10 @@
                    * Make the solution of the exam in the same time.
                    * Update the bank of questions anytime.
 
-                       * *student Benefits:*
-                           * The possibility of taking the exam in the same exam's day.
-                           * Cover the materials of course equally.
-                           * The diversity of questions.
+                 * *student Benefits:*
+                   * The possibility of taking the exam in the same exam's day.
+                   * Cover the materials of course equally.
+                   * The diversity of questions.
    ===2.5 Alternatives and Competition===
              As of right now, there is no such other product on the market that competes directly with this product.
 
@@ -52,7 +52,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_.jpg
 
   ===3.2 System Position Statement===
 || *For* || Academic/Education institute ||
-|| *Who* || ELS instructors ||
+|| *Who* || ESL's instructors ||
 || *Automated Exam System* || Is a system to generate different models of exams ||
 || *That* || Allow to get easy and fast way to generate exam ||
 || *Unlike* || Any other traditional way to create exam like Microsoft Word ||
