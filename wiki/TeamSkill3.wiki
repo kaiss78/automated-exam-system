@@ -16,9 +16,9 @@
 
 ==2. User Description==
    ===2.1 User/Market Demographics===
-              ESL Instructors are the main users for the system.
+              ESL's Instructors are the main users for the system.
    ===2.2 User Profiles===
-              ELS instructors: To access and update database of questions
+              ESL's instructors: To access and update database of questions
                 
    ===2.3 User Environment===
              This system can support any of the windows based Operating System. It has complete web-based solution provides easy user interface.
