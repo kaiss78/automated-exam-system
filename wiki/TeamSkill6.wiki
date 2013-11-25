@@ -39,9 +39,3 @@ Generate exam
 || 14 || The system show form of exam with solution. || 
 || 15 || The ESL's instructors can print the exam and save it. ||
 || 16 ||The ESL's instructors log out. ||
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
