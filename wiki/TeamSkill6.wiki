@@ -5,6 +5,15 @@
 Automated exam system.
 Generate exam
 
+* Use case description
+ 6.2.6 Generate exam use case
+|| *use case name* || Generate exam||
+|| *Actors* || Instructors and System Administrator||
+|| *Brief Description* || To add exam information such as (instructor name - exam type - duration - date - class name)||
+|| *Precondition* || Instructors/ Administrator must have to log in into the system||
+|| *Basic Flow* || Users write the information for the exam then print the paper||
+|| *Post-condition* || System will generate a confirmation message about database update||
+
 * Table 1 Scenario for Generate exam.
 
 || *Basic Flow* || *Description*||
