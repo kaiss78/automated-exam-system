@@ -2,8 +2,21 @@
 #sidebar Index
 = Building the Right System =
 
-Add your content here.
-
+Automated exam system.
+Generate exam
+Table 1.1 Scenario for Generate exam
+|| *Basic Flow* || *Description*||
+|| 1 || ESL's instructors enter user name and password ||
+|| 2 || Validate ESL's instructors is performed. ||
+|| 3 || The generate system display the main window that has different choice that the user need. In this case the ESL's instructors select "managing exam".
+|| 4 || The system display another window for managing exam ||
+|| 5 || The ESL's instructors select the course,chapter,the number of questions, and difficultly of question. ||
+|| 6 || The ESL's instructors add the information of the exam such as date and session. ||
+|| 7 || The ESL's instructors select apply. ||
+|| 8 || The system show form of exam with solution. || 
+|| 9 || The ESL's instructors can print the exam and save it. ||
+|| 10 ||The ESL's instructors log out. ||
+    
 
 = Details =
 
