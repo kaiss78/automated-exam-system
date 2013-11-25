@@ -5,7 +5,7 @@
 Automated exam system.
 Generate exam
 
-* Table 1.1 Scenario for Generate exam.
+* Table 1 Scenario for Generate exam.
 
 || *Basic Flow* || *Description*||
 || 1 || ESL's instructors enter user name and password ||
@@ -20,7 +20,7 @@ Generate exam
 || 10 ||The ESL's instructors log out. ||
 
     
-* Table 2.1 Scenario for Generate exam(Alternative Flow).
+* Table 2 Scenario for Generate exam(Alternative Flow).
 
 || *Basic Flow* || *Description*||
 || 1 || ESL's instructors enter user name and password ||
