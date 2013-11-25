@@ -33,4 +33,4 @@ Generate exam
 
 || *Basic Flow* || *Description*||
 || A1 || If in step 2 does not complete successfully, then ends with a failure condition. ||
-|| A2 || Validate ESL's instructors is performed. ||
+|| A2 || If step 5 does not exist, then ESL's instructors need to create questions bank first to complete this use case. ||
