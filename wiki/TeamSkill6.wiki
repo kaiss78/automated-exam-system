@@ -32,19 +32,5 @@ Generate exam
 * Table 2 Scenario for Generate exam(Alternative Flow).
 
 || *Basic Flow* || *Description*||
-|| 1 || ESL's instructors enter user name and password ||
-|| 2 || Validate ESL's instructors is performed. ||
-|| 3 || The generate system display the main window that has different choice that the user need. In this case at the first time of the ESL's instructors the need to create questions bank. ||
-|| 4 || Create or replace course. ||
-|| 5 || Create or replace chapter. ||
-|| 6 || Create or replace questions with them solutions. ||
-|| 7 || Add the difficultly of the questions. ||
-|| 8 || save the information in the questions bank. ||
-|| 9 || The ESL's instructors select managing exam. || 
-|| 10 || The system display another window for managing exam ||
-|| 11 || The ESL's instructors select the course,chapter,the number of questions, and difficultly of question. ||
-|| 12 || The ESL's instructors add the information of the exam such as date and session. ||
-|| 13 || The ESL's instructors select apply. ||
-|| 14 || The system show form of exam with solution. || 
-|| 15 || The ESL's instructors can print the exam and save it. ||
-|| 16 ||The ESL's instructors log out. ||
+|| A1 || If in step 2 does not complete successfully, then ends with a failure condition. ||
+|| A2 || Validate ESL's instructors is performed. ||
