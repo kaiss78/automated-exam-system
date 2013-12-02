@@ -77,7 +77,7 @@ https://scontent-b-ord.xx.fbcdn.net/hphotos-prn2/1488295_660561773965953_2126990
 
 * 2.4 Use Case Flow Scenarios:
 
-https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02_at_4.jpg
+https://scontent-b-ord.xx.fbcdn.net/hphotos-ash3/1476263_660561777299286_1550288023_n.jpg
 
 * 2.5 All Scenarios:
 || *Scenarios number* || *Originating flow*|| *Alternative Flow*||
@@ -123,7 +123,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 
 * 3.4 Use Case Flow Scenarios:
 
-https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02_at_4.jpg
+https://scontent-b-ord.xx.fbcdn.net/hphotos-frc1/1002636_660561787299285_709175210_n.jpg
 
 * 3.5 All Scenarios:
 || *Scenarios number* || *Originating flow*|| *Alternative Flow*||
