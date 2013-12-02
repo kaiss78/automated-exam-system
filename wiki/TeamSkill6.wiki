@@ -36,7 +36,7 @@ Automated exam system.
 
 * 1.4 Use Case Flow Scenarios:
 
-https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02_at_4.jpg
+https://scontent-b-ord.xx.fbcdn.net/hphotos-prn2/1488295_660561773965953_2126990884_n.jpg
 
 * 1.5 All Scenarios:
 || *Scenarios number* || *Originating flow*|| *Alternative Flow*||
