@@ -36,7 +36,7 @@ Generate exam
 || A2 || If step 5 does not exist, then ESL's instructors need to create questions bank first to complete this use case. ||
 
 
-* 6.2.8 View statistics questions use case*
+=== 2.0 View statistics questions use case===
 || *use case name* || View statistics questions||
 || *Actors* || Instructors and System Administrator||
 || *Brief Description* || Allow to instructors to view statistics questions||
@@ -44,7 +44,7 @@ Generate exam
 || *Basic Flow* || Select the subject in which you have to view Statistics for questions||
 || *Post-condition* || The system will view Statistical reports ||
 
-* Table 1 Scenario for statistics questions.
+* 2.1  Scenario for statistics questions.
 
 || *Basic Flow* || *Description*||
 || 1 || ESL's instructors/ System Administrator enter user name and password ||
@@ -57,8 +57,19 @@ Generate exam
 || 8 ||The ESL's instructors/ System Administrator log out. ||
 
     
-* Table 2 Scenario for statistics questions(Alternative Flow).
+* 2.2 Scenario for statistics questions(Alternative Flow).
 
 || *Basic Flow* || *Description*||
 || A1 || If in step 2 does not complete successfully, then ends with a failure condition. ||
 || A2 || If step 4 does not exist, then ESL's instructors/ System Administrator need to create questions bank for the course to complete this use case. ||
+
+* 2.3 Use Case Flow Scenarios
+
+https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02_at_4.jpg
+
+* 2.4 All Scenarios
+
+|| *Scenarios number* || *Originating flow*|| *Alternative Flow*||
+|| 1 || Basic Flow || ||
+|| 2 || Basic Flow|| A1||
+|| 3 || Basic Flow || A2||
