@@ -44,17 +44,17 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || 2 || Basic Flow|| A1||
 || 3 || Basic Flow || A2||
 
-==2.0 Admin create/edit user use case==
+==2.0 Maintain Questions bank use case==
 * 2.1 Use case description:
 || *Use case number* || 2 ||
-|| *use case name* || Admin create/edit user||
-|| *Actors* || System Administrator||
-|| *Brief Description* || This use case describes the way of Administrator  to create or edit ESL's instructors. ||
-|| *Precondition* || Administrator must have to log in into the system||
-|| *Basic Flow* || Administrator creates or edit the information of ESL's instructors. ||
-|| *Post-condition* || System will generate a confirmation message about ESL's instructors database update. ||
+|| *use case name* || Maintain Questions bank ||
+|| *Actors* || ESL's Instructors||
+|| *Brief Description* || This use case describes the way to maintain questions bank. ||
+|| *Precondition* || ESL's Instructors must have to log in into the system||
+|| *Basic Flow* || ESL's Instructors maintain the questions bank. ||
+|| *Post-condition* || System will generate a confirmation message about questions bank's database update. ||
 
-* Table 2.2 Scenario for Admin create/edit user:
+* Table 2.2 Scenario for Maintain Questions bank:
 
 || *Basic Flow* || *Description*||
 || 1 || Administrator  enter user name and password ||
@@ -68,7 +68,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || 9 ||The Administrator  log out. ||
 
     
-* Table 2.3 Scenario for Admin create/edit user(Alternative Flow):
+* Table 2.3 Scenario for Maintain Questions bank(Alternative Flow):
 
 || *Basic Flow* || *Description*||
 || A1 || If in step 2 does not complete successfully, then ends with a failure condition. ||
@@ -89,9 +89,9 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 * 3.1 Use case description:
 || *Use case number* || 3 ||
 || *use case name* || Generate exam||
-|| *Actors* || Instructors and System Administrator||
+|| *Actors* || ESL's Instructors ||
 || *Brief Description* || This use case describes the way to generate exams for students on specific subjects, chapters and different questions level. ||
-|| *Precondition* || Instructors/ Administrator must have to log in into the system||
+|| *Precondition* || ESL's Instructors must have to log in into the system||
 || *Basic Flow* || Users write the information for the exam then print the paper||
 || *Post-condition* || System will generate a confirmation message about database update||
 
