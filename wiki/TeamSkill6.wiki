@@ -23,7 +23,7 @@ Automated exam system.
 || 4 || The system display another window for create user ||
 || 5 || The Administrator select the school. ||
 || 6 || The Administrator add or update the ESL's instructors information such as(username,password,and privileges). ||
-|| 7 || The Administrator select apply. ||
+|| 7 || The Administrator select save. ||
 || 8 || The system show massage of confirmation. || 
 || 9 ||The Administrator  log out. ||
 
@@ -32,7 +32,7 @@ Automated exam system.
 
 || *Basic Flow* || *Description*||
 || A1 || If in step 2 does not complete successfully, then ends with a failure condition. ||
-|| A2 || If step 5 does not exist, then Administrator does not have the authority to add school. ||
+|| A2 || If step 6 exist, then system show massage that user exist. ||
 
 * 1.4 Use Case Flow Scenarios:
 
@@ -103,7 +103,9 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || 2 || Validate ESL's instructors/ System Administrator is performed. ||
 || 3 || The system display the main window that has different choice that the user need. In this case the ESL's instructors select "managing exam". ||
 || 4 || The system display another window for managing exam ||
-|| 5 || The ESL's instructors select the course,chapter,the number of questions, and difficultly of question. ||
+|| 5 || The ESL's instructors select the course. ||
+|| 5 || The ESL's instructors select the chapter ||
+|| 5 || The ESL's instructors select the number of questions, and difficultly of question. ||
 || 6 || The ESL's instructors add the information of the exam such as location of exam, date of exam, time of exam, and type of exam. ||
 || 7 || The ESL's instructors select apply. ||
 || 8 || The system show form of exam with solution. || 
