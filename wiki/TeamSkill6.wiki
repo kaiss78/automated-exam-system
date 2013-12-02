@@ -4,15 +4,15 @@
 
 Automated exam system.
 
-==1.0 Admin create/edit use case==
+==1.0 Admin create/edit user use case==
 * 1.1 Use case description:
 || *Use case number* || 1 ||
-|| *use case name* || Generate exam||
-|| *Actors* || Instructors and System Administrator||
-|| *Brief Description* || This use case describes the way to generate exams for students on specific subjects, chapters and different questions level. ||
-|| *Precondition* || Instructors/ Administrator must have to log in into the system||
-|| *Basic Flow* || Users write the information for the exam then print the paper||
-|| *Post-condition* || System will generate a confirmation message about database update||
+|| *use case name* || Admin create/edit user||
+|| *Actors* || System Administrator||
+|| *Brief Description* || This use case describes the way of Administrator  to create or edit ESL's instructors. ||
+|| *Precondition* || Administrator must have to log in into the system||
+|| *Basic Flow* || Administrator creates or edit the information of ESL's instructors. ||
+|| *Post-condition* || System will generate a confirmation message about ESL's instructors database update. ||
 
 * Table 1.2 Scenario for Generate exam.
 
