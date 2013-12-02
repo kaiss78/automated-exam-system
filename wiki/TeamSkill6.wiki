@@ -35,6 +35,9 @@ Generate exam
 || A1 || If in step 2 does not complete successfully, then ends with a failure condition. ||
 || A2 || If step 5 does not exist, then ESL's instructors need to create questions bank first to complete this use case. ||
 
+* 1.3 Use Case Flow Scenarios:
+
+https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02_at_4.jpg
 
 === 2.0 View statistics questions use case===
 || *use case name* || View statistics questions||
