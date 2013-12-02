@@ -22,7 +22,7 @@ Automated exam system.
 || 3 || The system display the main window that has different choice that the Administrator need. In this case the Administrator select "create/edit user". ||
 || 4 || The system display another window for create user ||
 || 5 || The Administrator select the school. ||
-|| 6 || The Administrator add or update the ESL's instructors information(username,password,and privileges). ||
+|| 6 || The Administrator add or update the ESL's instructors information such as(username,password,and privileges). ||
 || 7 || The Administrator select apply. ||
 || 8 || The system show massage of confirmation. || 
 || 9 ||The Administrator  log out. ||
