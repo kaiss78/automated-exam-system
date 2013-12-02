@@ -131,9 +131,9 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 * 4.1 Use case description:
 || *Use case number* || 4 ||
 || *use case name* || View statistics questions||
-|| *Actors* || Instructors and System Administrator||
-|| *Brief Description* || Allow to instructors to view statistics questions||
-|| *Precondition* || Instructors/ Administrator must have to log in into the system||
+|| *Actors* || ESL's Instructors and System Administrator||
+|| *Brief Description* || Allow to ESL's instructors to view statistics questions||
+|| *Precondition* || ESL's Instructors/ Administrator must have to log in into the system||
 || *Basic Flow* || Select the subject in which you have to view Statistics for questions||
 || *Post-condition* || The system will view Statistical reports ||
 
