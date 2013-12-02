@@ -106,7 +106,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_.jpg
 
 ==6. Exemplary Use Case==
   ===6.1 Use Cases===
-https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase-newest.jpg
+https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase-lastone-2.jpg
   ===6.2 Use cases Description===
 
              6.2.1 Create new user use case
