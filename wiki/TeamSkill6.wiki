@@ -104,13 +104,13 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || 3 || The system display the main window that has different choice that the user need. In this case the ESL's instructors select "managing exam". ||
 || 4 || The system display another window for managing exam ||
 || 5 || The ESL's instructors select the course. ||
-|| 5 || The ESL's instructors select the chapter ||
-|| 5 || The ESL's instructors select the number of questions, and difficultly of question. ||
-|| 6 || The ESL's instructors add the information of the exam such as location of exam, date of exam, time of exam, and type of exam. ||
-|| 7 || The ESL's instructors select apply. ||
-|| 8 || The system show form of exam with solution. || 
-|| 9 || The ESL's instructors can print the exam and save it. ||
-|| 10 ||The ESL's instructors log out. ||
+|| 6 || The ESL's instructors select the chapter ||
+|| 7 || The ESL's instructors select the number of questions, and difficultly of question. ||
+|| 8 || The ESL's instructors add the information of the exam such as location of exam, date of exam, time of exam, and type of exam. ||
+|| 9 || The ESL's instructors select apply. ||
+|| 10 || The system show form of exam with solution. || 
+|| 11 || The ESL's instructors can print the exam and save it. ||
+|| 12 ||The ESL's instructors log out. ||
 
     
 * Table 3.3 Scenario for Generate exam(Alternative Flow).
