@@ -103,7 +103,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || 2 || Validate ESL's instructors/ System Administrator is performed. ||
 || 3 || The system display the main window that has different choice that the user need. In this case the ESL's instructors select "managing exam". ||
 || 4 || The system display another window for managing exam ||
-|| 5 || The ESL's instructors select the course. ||
+|| 5 || The ESL's instructors select the subject. ||
 || 6 || The ESL's instructors select the chapter ||
 || 7 || The ESL's instructors select the number of questions, and difficultly of question. ||
 || 8 || The ESL's instructors add the information of the exam such as location of exam, date of exam, time of exam, and type of exam. ||
@@ -117,7 +117,9 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 
 || *Basic Flow* || *Description*||
 || A1 || If in step 2 does not complete successfully, then ends with a failure condition. ||
-|| A2 || If step 5 does not exist, then ESL's instructors need to create questions bank first to complete this use case. ||
+|| A2 || If step 5 does not exist, then ESL's instructors need to create  subject questions bank first to complete this use case. ||
+|| A3 || If step 6 does not exist, then ESL's instructors need to create chapter in questions bank first to complete this use case. ||
+|| A4 || If step 7 does not exist, then ESL's instructors need to create more questions in questions bank first to complete this use case. ||
 
 * 3.4 Use Case Flow Scenarios:
 
@@ -128,6 +130,8 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || 1 || Basic Flow || ||
 || 2 || Basic Flow|| A1||
 || 3 || Basic Flow || A2||
+|| 3 || Basic Flow || A3||
+|| 3 || Basic Flow || A4||
 
 == 4.0 View statistics questions use case==
 * 4.1 Use case description:
