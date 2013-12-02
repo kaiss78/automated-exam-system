@@ -73,7 +73,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 
 || *Basic Flow* || *Description*||
 || A1 || If in step 2 does not complete successfully, then ends with a failure condition. ||
-|| A2 || If step 5 does not exist, then Administrator does not have the authority to add school. ||
+|| A2 || If step 4 does not exist, then ESL's Instructors do not have the authority to maintain questions. ||
 
 * 2.4 Use Case Flow Scenarios:
 
