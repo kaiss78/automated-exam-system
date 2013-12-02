@@ -170,8 +170,8 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/usecase-lastone-2.jpg
 || *Actors* || Instructors and System Administrator||
 || *Brief Description* || Allow to instructors to view statistics questions||
 || *Precondition* || Instructors/ Administrator must have to log in into the system||
-|| *Basic Flow* || Select the subject in which you have to view Statistics for questions then the system will view Statistical reports that you want.||
-|| *Post-condition* || N/A||
+|| *Basic Flow* || Select the subject in which you have to view Statistics for questions||
+|| *Post-condition* || The system will view Statistical reports||
 
 ==7. Other Product Requirements==
   ===7.1 Applicable Standards===
