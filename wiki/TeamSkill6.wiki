@@ -44,6 +44,46 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || 2 || Basic Flow|| A1||
 || 3 || Basic Flow || A2||
 
+==2.0 Admin create/edit user use case==
+* 2.1 Use case description:
+|| *Use case number* || 2 ||
+|| *use case name* || Admin create/edit user||
+|| *Actors* || System Administrator||
+|| *Brief Description* || This use case describes the way of Administrator  to create or edit ESL's instructors. ||
+|| *Precondition* || Administrator must have to log in into the system||
+|| *Basic Flow* || Administrator creates or edit the information of ESL's instructors. ||
+|| *Post-condition* || System will generate a confirmation message about ESL's instructors database update. ||
+
+* Table 2.2 Scenario for Admin create/edit user:
+
+|| *Basic Flow* || *Description*||
+|| 1 || Administrator  enter user name and password ||
+|| 2 || Validate System Administrator is performed. ||
+|| 3 || The admin system display the main window that has different choice that the Administrator need. In this case the Administrator select "create user". ||
+|| 4 || The system display another window for create user ||
+|| 5 || The Administrator add/select the school. ||
+|| 6 || The Administrator add or update the ESL's instructors information and their privileges. ||
+|| 7 || The Administrator select apply. ||
+|| 8 || The system show massage of confirmation. || 
+|| 9 ||The Administrator  log out. ||
+
+    
+* Table 2.3 Scenario for Admin create/edit user(Alternative Flow):
+
+|| *Basic Flow* || *Description*||
+|| A1 || If in step 2 does not complete successfully, then ends with a failure condition. ||
+|| A2 || If step 5 does not exist, then Administrator does not have the authority to add school. ||
+
+* 2.4 Use Case Flow Scenarios:
+
+https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02_at_4.jpg
+
+* 2.5 All Scenarios:
+|| *Scenarios number* || *Originating flow*|| *Alternative Flow*||
+|| 1 || Basic Flow || ||
+|| 2 || Basic Flow|| A1||
+|| 3 || Basic Flow || A2||
+
 
 ==3.0 Generate exam use case==
 * 3.1 Use case description:
