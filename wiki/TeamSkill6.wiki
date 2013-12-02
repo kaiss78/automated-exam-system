@@ -19,7 +19,7 @@ Automated exam system.
 || *Basic Flow* || *Description*||
 || 1 || Administrator  enter user name and password ||
 || 2 || Validate System Administrator is performed. ||
-|| 3 || The admin system display the main window that has different choice that the Administrator need. In this case the Administrator select "create user". ||
+|| 3 || The system display the main window that has different choice that the Administrator need. In this case the Administrator select "create/edit user". ||
 || 4 || The system display another window for create user ||
 || 5 || The Administrator add/select the school. ||
 || 6 || The Administrator add or update the ESL's instructors information and their privileges. ||
@@ -59,7 +59,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || *Basic Flow* || *Description*||
 || 1 || ESL's Instructors enter user name and password ||
 || 2 || Validate System Administrator is performed. ||
-|| 3 || The admin system display the main window that has different choice that the ESL's Instructors need. In this case the ESL's Instructors select "Maintain Questions bank". ||
+|| 3 || The system display the main window that has different choice that the ESL's Instructors need. In this case the ESL's Instructors select "Maintain Questions bank". ||
 || 4 || The system display another window for Maintain Questions bank ||
 || 5 || The ESL's Instructors add/select the subject. ||
 || 6 || The ESL's Instructors add/select the chapter. ||
@@ -101,7 +101,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || *Basic Flow* || *Description*||
 || 1 || ESL's instructors enter user name and password ||
 || 2 || Validate ESL's instructors/ System Administrator is performed. ||
-|| 3 || The generate system display the main window that has different choice that the user need. In this case the ESL's instructors select "managing exam". ||
+|| 3 || The system display the main window that has different choice that the user need. In this case the ESL's instructors select "managing exam". ||
 || 4 || The system display another window for managing exam ||
 || 5 || The ESL's instructors select the course,chapter,the number of questions, and difficultly of question. ||
 || 6 || The ESL's instructors add the information of the exam such as location of exam, date of exam, time of exam, and type of exam. ||
@@ -142,7 +142,7 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || *Basic Flow* || *Description*||
 || 1 || ESL's instructors/ System Administrator enter user name and password ||
 || 2 || Validate ESL's instructors/ System Administrator is performed. ||
-|| 3 || The generate system display the main window that has different choice that the user need. In this case the ESL's instructors/ System Administrator select "statistics questions". ||
+|| 3 || The system display the main window that has different choice that the user need. In this case the ESL's instructors/ System Administrator select "statistics questions". ||
 || 4 || The ESL's instructors/ System Administrator select the course. ||
 || 5 || The ESL's instructors/ System Administrator select apply. ||
 || 6 || The system view Statistical reports. || 
