@@ -6,7 +6,7 @@ Automated exam system.
 Generate exam
 
 * Use case description
- 1.0 Generate exam use case
+* 1.0 Generate exam use case
 || *use case name* || Generate exam||
 || *Actors* || Instructors and System Administrator||
 || *Brief Description* || This use case describes the way to generate exams for students on specific subjects, chapters and different questions level. ||
