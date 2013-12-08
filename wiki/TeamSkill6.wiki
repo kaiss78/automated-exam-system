@@ -133,6 +133,12 @@ https://scontent-b-ord.xx.fbcdn.net/hphotos-frc1/1002636_660561787299285_7091752
 || 3 || Basic Flow || A3||
 || 3 || Basic Flow || A4||
 
+|| *Test case id* || *Scenario* || *Description* || *Condition * || *Excepted result* ||
+|| 1 || 1 || Basic flow:Instructor log in to the system || Invalid input || empty user name or pass, wrong user name or pass ||
+|| 2 || 2 || Alternate flow:The ESL's instructors select the subject. || Invalid: Subject is not add || instructors need to create subject questions bank first to complete this use case ||
+|| 3 || 3 || Alternate flow:The ESL's instructors select the chapter || Invalid:Chapters are not add || ESL's instructors need to create chapter in questions bank first to complete this use case. ||
+|| 4 || 4 || Alternate flow:The ESL's instructors select the number of questions, and difficultly of question || Invalid:Questions are not add or enough || ESL's instructors need to create more questions in questions bank first to complete this use case. ||
+
 == 4.0 View statistics questions use case==
 * 4.1 Use case description:
 || *Use case number* || 4 ||
