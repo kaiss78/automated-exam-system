@@ -133,6 +133,7 @@ https://scontent-b-ord.xx.fbcdn.net/hphotos-frc1/1002636_660561787299285_7091752
 || 3 || Basic Flow || A3||
 || 3 || Basic Flow || A4||
 
+* 3.6 Test cases for generating exam with identified condition:
 || *Test case id* || *Scenario* || *Description* || *Condition * || *Excepted result* ||
 || 1 || 1 || Basic flow:Instructor log in to the system || Invalid input || empty user name or pass, wrong user name or pass ||
 || 2 || 2 || Alternate flow:The ESL's instructors select the subject. || Invalid: Subject is not add || instructors need to create subject questions bank first to complete this use case ||
