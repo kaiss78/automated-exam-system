@@ -39,10 +39,23 @@ Automated exam system.
 https://scontent-b-ord.xx.fbcdn.net/hphotos-prn2/1488295_660561773965953_2126990884_n.jpg
 
 * 1.5 All Scenarios:
-|| *Scenarios number* || *Originating flow*|| *Alternative Flow*||
+
+|| *Scenarios number* || *Originating flow* || *Alternative Flow* ||
 || 1 || Basic Flow || ||
 || 2 || Basic Flow|| A1||
 || 3 || Basic Flow || A2||
+
+* 1.6 Variables Identified:
+
+|| *Step* || *Variable* || *Options to be tested* ||
+|| 1 || Log in || empty username/ password, Wrong username/ password, Valid username/ password ||
+|| 2 || add /update ESL's instructors information|| User exist, system confirm ||
+
+* 1.7 Test Paths
+
+|| *Step* || *Variable* || *Value* || *Expected Result* || *Pass/Fail* ||
+|| 1 || Log in || Valid username/ password || Enter to the system || Pass ||
+|| 2 || add /update ESL's instructors information || Enter instructor's information || system confirm || Pass ||
 
 ==2.0 Maintain Questions bank use case==
 * 2.1 Use case description:
@@ -80,11 +93,23 @@ https://scontent-b-ord.xx.fbcdn.net/hphotos-prn2/1488295_660561773965953_2126990
 https://scontent-b-ord.xx.fbcdn.net/hphotos-ash3/1476263_660561777299286_1550288023_n.jpg
 
 * 2.5 All Scenarios:
+
 || *Scenarios number* || *Originating flow*|| *Alternative Flow*||
 || 1 || Basic Flow || ||
 || 2 || Basic Flow|| A1||
 || 3 || Basic Flow || A2||
 
+* 2.6 Variables Identified:
+
+|| *Step* || *Variable* || *Options to be tested* ||
+|| 1 || Log in || empty username/ password, Wrong username/ password, Valid username/ password ||
+|| 2 || Maintain Questions bank || user don't have the authority, system confirm ||
+
+* 2.7 Test Paths
+
+|| *Step* || *Variable* || *Value* || *Expected Result* || *Pass/Fail* ||
+|| 1 || Log in || Valid username/ password || Enter to the system || Pass ||
+|| 2 || Maintain Questions bank || Add or update questions || system confirm || Pass ||
 
 ==3.0 Generate exam use case==
 * 3.1 Use case description:
@@ -140,6 +165,22 @@ https://scontent-b-ord.xx.fbcdn.net/hphotos-frc1/1002636_660561787299285_7091752
 || 3 || 3 || Alternate flow:The ESL's instructors select the chapter || Invalid:Chapters are not add || ESL's instructors need to create chapter in questions bank first to complete this use case. ||
 || 4 || 4 || Alternate flow:The ESL's instructors select the number of questions, and difficultly of question || Invalid:Questions are not add or enough || ESL's instructors need to create more questions in questions bank first to complete this use case. ||
 
+* 3.6 Variables Identified:
+
+|| *Step* || *Variable* || *Options to be tested* ||
+|| 1 || Log in || empty username/ password, Wrong username/ password, Valid username/ password ||
+|| 2 || Select subject|| Subject isn't add, Subject is available||
+|| 3 || Select chapter || chapter isn't add, chapter is available||
+|| 4 || Select number of questions and difficultly of question || number/ difficultly of questions aren't add, number/ difficultly of questions are add ||
+
+* 3.7 Test Paths
+
+|| *Step* || *Variable* || *Value* || *Expected Result* || *Pass/Fail* ||
+|| 1 || Log in || Valid username/ password || Enter to the system || Pass ||
+|| 2 || Select subject|| Subject is available || System asks to add chapters || Pass ||
+|| 3 || Select chapter || chapter is available || System asks to add number & difficultly of questions || Pass ||
+|| 4 || Select number/difficultly of question || number/ difficultly of questions are add || choose number/ difficultly of questions || Pass ||
+
 == 4.0 View statistics questions use case==
 * 4.1 Use case description:
 || *Use case number* || 4 ||
@@ -179,3 +220,15 @@ https://googledrive.com/host/0B4l_YtJunMYOV2VqaHluWnRuOXM/Screen_Shot_2013-12-02
 || 1 || Basic Flow || ||
 || 2 || Basic Flow|| A1||
 || 3 || Basic Flow || A2||
+
+* 4.6 Variables Identified:
+
+|| *Step* || *Variable* || *Options to be tested* ||
+|| 1 || Log in || empty username/ password, Wrong username/ password, Valid username/ password ||
+|| 2 || course || ESL instructor/ System Administrator need to create questions bank, system confirm ||
+
+* 4.7 Test Paths
+
+|| *Step* || *Variable* || *Value* || *Expected Result* || *Pass/Fail* ||
+|| 1 || Log in || Valid username/ password || Enter to the system || Pass ||
+|| 2 || course || Choose course || system confirm || Pass ||
